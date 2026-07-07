@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T07:00:00+09:00",
+  "headline": "샘플 데이터입니다 — 루틴이 처음 실행되면 실제 브리핑으로 교체됩니다",
+  "stats": {
+    "editorial_count": 6,
+    "opinion_count": 5,
+    "keyword_count": 3
+  },
+  "keywords": [
+    {
+      "keyword": "샘플 의제 A",
+      "rank": 1,
+      "gist": "언론과 온라인 여론이 함께 다룬 의제의 예시입니다.",
+      "items": [
+        { "type": "editorial", "source": "샘플신문", "title": "사설 제목이 이 자리에 표시됩니다", "url": "" },
+        { "type": "editorial", "source": "샘플일보", "title": "URL이 있으면 제목이 원문으로 연결됩니다", "url": "" },
+        { "type": "editorial", "source": "샘플방송", "title": "방송사 논평·해설도 함께 수집됩니다", "url": "" },
+        { "type": "opinion", "source": "샘플커뮤니티", "title": "여론 게시물의 요지가 재서술되어 표시됩니다", "url": "" },
+        { "type": "opinion", "source": "Reddit", "title": "해외 커뮤니티의 반응 예시", "url": "" }
+      ]
+    },
+    {
+      "keyword": "샘플 의제 B",
+      "rank": 2,
+      "gist": "언론만 다룬 의제는 '언론만' 배지가 붙습니다.",
+      "items": [
+        { "type": "editorial", "source": "샘플경제", "title": "언론에서만 관찰된 의제의 사설 예시", "url": "" },
+        { "type": "editorial", "source": "샘플신문", "title": "같은 키워드로 묶인 두 번째 사설", "url": "" },
+        { "type": "editorial", "source": "샘플통신", "title": "통신사 이슈분석 기사 예시", "url": "" }
+      ]
+    },
+    {
+      "keyword": "샘플 의제 C",
+      "rank": 3,
+      "gist": "커뮤니티에서만 화제인 자생 의제는 '여론만' 배지가 붙습니다.",
+      "items": [
+        { "type": "opinion", "source": "샘플커뮤니티", "title": "언론이 다루지 않은 온라인 자생 이슈 예시", "url": "" },
+        { "type": "opinion", "source": "샘플카페", "title": "인기글 게시판에서 수집된 게시물 요지", "url": "" },
+        { "type": "opinion", "source": "X(트위터)", "title": "트렌드에서 관찰된 반응 예시", "url": "" }
+      ]
+    }
+  ],
+  "etc": [
+    { "type": "editorial", "source": "샘플신문", "title": "키워드로 묶이지 않은 단독 사설은 이 접이식 목록에 들어갑니다", "url": "" }
+  ],
+  "method_note": "이 파일은 대시보드 확인용 샘플 데이터입니다. 루틴 첫 실행 시 실제 수집 결과로 덮어써집니다."
+}

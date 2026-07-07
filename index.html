@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>오늘의 여론 — 사설·여론 키워드 브리핑</title>
+<meta name="description" content="주요 언론 사설·논평과 온라인 여론을 키워드로 묶어 매일 아침 보여주는 대시보드" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+<style>
+:root{
+  --paper:#F5F6F3;        /* 지면 */
+  --card:#FFFFFF;
+  --ink:#161D26;          /* 먹 */
+  --ink-soft:#5A6570;
+  --line:#DEE1DB;
+  --press:#23496B;        /* 언론: 남색 */
+  --press-soft:#E4EBF2;
+  --voice:#C2402E;        /* 여론: 다홍 */
+  --voice-soft:#F7E6E1;
+  --focus:#23496B;
+  --serif:'Noto Serif KR', 'Nanum Myeongjo', serif;
+  --sans:'Pretendard Variable', Pretendard, -apple-system, 'Malgun Gothic', sans-serif;
+}
+*{box-sizing:border-box; margin:0; padding:0;}
+html{font-size:16px;}
+body{
+  font-family:var(--sans);
+  background:var(--paper);
+  color:var(--ink);
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:inherit;}
+button{font-family:inherit; cursor:pointer;}
+:focus-visible{outline:2px solid var(--focus); outline-offset:2px; border-radius:2px;}
+
+.wrap{max-width:880px; margin:0 auto; padding:0 20px 80px;}
+
+/* ── 제호 ── */
+header.masthead{
+  padding:40px 0 20px;
+  border-bottom:3px double var(--ink);
+}
+.masthead-top{
+  display:flex; align-items:baseline; justify-content:space-between; gap:16px; flex-wrap:wrap;
+}
+h1{
+  font-family:var(--serif); font-weight:800; font-size:2rem; letter-spacing:-0.01em;
+}
+h1 .press-dot{color:var(--press);}
+h1 .voice-dot{color:var(--voice);}
+.date-nav{display:flex; align-items:center; gap:8px;}
+.date-nav select{
+  font-family:inherit; font-size:0.9rem; padding:6px 10px;
+  border:1px solid var(--line); border-radius:6px; background:var(--card); color:var(--ink);
+}
+.date-nav button{
+  border:1px solid var(--line); background:var(--card); border-radius:6px;
+  width:32px; height:32px; font-size:0.95rem; color:var(--ink-soft);
+}
+.date-nav button:disabled{opacity:0.35; cursor:default;}
+.tagline{margin-top:6px; font-size:0.85rem; color:var(--ink-soft);}
+
+/* ── 오늘 요약 ── */
+.today{padding:24px 0 8px;}
+.headline{
+  font-family:var(--serif); font-weight:600; font-size:1.3rem; line-height:1.45;
+}
+.stats{
+  margin-top:12px; display:flex; gap:18px; flex-wrap:wrap;
+  font-size:0.84rem; color:var(--ink-soft);
+}
+.stats b{color:var(--ink); font-weight:700;}
+.stats .swatch{display:inline-block; width:9px; height:9px; border-radius:2px; margin-right:5px; vertical-align:baseline;}
+.swatch.press{background:var(--press);}
+.swatch.voice{background:var(--voice);}
+
+/* ── 컨트롤 ── */
+.controls{
+  display:flex; justify-content:space-between; align-items:center; gap:12px;
+  padding:16px 0 12px; flex-wrap:wrap;
+}
+.section-label{
+  font-size:0.78rem; font-weight:700; letter-spacing:0.12em; color:var(--ink-soft); text-transform:uppercase;
+}
+.toggle-all{
+  border:1px solid var(--line); background:var(--card); border-radius:6px;
+  padding:6px 12px; font-size:0.82rem; color:var(--ink-soft);
+}
+.toggle-all:hover{border-color:var(--ink-soft);}
+
+/* ── 키워드 행 ── */
+.kw{
+  background:var(--card); border:1px solid var(--line); border-radius:10px;
+  margin-bottom:10px; overflow:hidden;
+  transition:border-color 0.15s;
+}
+.kw:hover{border-color:#B9BFB7;}
+.kw-head{
+  width:100%; text-align:left; background:none; border:none;
+  display:grid; grid-template-columns:2rem 1fr auto; gap:12px; align-items:center;
+  padding:14px 16px;
+}
+.kw-rank{
+  font-family:var(--serif); font-weight:800; font-size:0.95rem; color:var(--ink-soft); text-align:center;
+}
+.kw-main{min-width:0;}
+.kw-title-row{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap;}
+.kw-title{font-family:var(--serif); font-weight:800; font-size:1.12rem; letter-spacing:-0.01em;}
+.badge{
+  font-size:0.68rem; font-weight:700; padding:2px 7px; border-radius:99px; white-space:nowrap;
+}
+.badge.both{background:linear-gradient(90deg, var(--press-soft) 50%, var(--voice-soft) 50%); color:var(--ink);}
+.badge.press-only{background:var(--press-soft); color:var(--press);}
+.badge.voice-only{background:var(--voice-soft); color:var(--voice);}
+.kw-gist{margin-top:3px; font-size:0.84rem; color:var(--ink-soft);
+  overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+/* 시그니처: 언론↔여론 이중 막대 */
+.kw-bar{margin-top:8px; display:flex; height:6px; border-radius:3px; overflow:hidden; background:var(--paper); max-width:420px;}
+.kw-bar .seg-press{background:var(--press); height:100%;}
+.kw-bar .seg-voice{background:var(--voice); height:100%;}
+.kw-side{display:flex; align-items:center; gap:12px;}
+.kw-counts{font-size:0.78rem; color:var(--ink-soft); text-align:right; line-height:1.35; white-space:nowrap;}
+.kw-counts .c-press{color:var(--press); font-weight:700;}
+.kw-counts .c-voice{color:var(--voice); font-weight:700;}
+.chev{color:var(--ink-soft); transition:transform 0.2s; font-size:0.8rem;}
+.kw.open .chev{transform:rotate(180deg);}
+
+/* ── 펼침 패널 ── */
+.kw-panel{display:none; border-top:1px solid var(--line); background:#FCFCFA;}
+.kw.open .kw-panel{display:grid;}
+.kw-panel{grid-template-columns:1fr 1fr;}
+.col{padding:14px 16px 18px; min-width:0;}
+.col + .col{border-left:1px solid var(--line);}
+.col-h{
+  font-size:0.75rem; font-weight:800; letter-spacing:0.08em; margin-bottom:10px;
+  display:flex; align-items:center; gap:6px;
+}
+.col-h.press{color:var(--press);}
+.col-h.voice{color:var(--voice);}
+.item{padding:6px 0; border-bottom:1px dashed var(--line); font-size:0.88rem; display:flex; gap:8px; align-items:baseline;}
+.item:last-child{border-bottom:none;}
+.src{
+  flex-shrink:0; font-size:0.72rem; font-weight:700; color:var(--ink-soft);
+  min-width:4.2em;
+}
+.item a{color:var(--ink); text-decoration:none; border-bottom:1px solid transparent;}
+.item a:hover{border-bottom-color:var(--ink);}
+.item .nolink{color:var(--ink-soft);}
+.col-empty{font-size:0.82rem; color:var(--ink-soft); padding:4px 0;}
+
+/* ── 기타 / 각주 ── */
+details.etc{margin-top:28px; border-top:1px solid var(--line); padding-top:16px;}
+details.etc summary{
+  font-size:0.85rem; font-weight:700; color:var(--ink-soft); cursor:pointer; list-style:none;
+}
+details.etc summary::before{content:"▸ "; }
+details.etc[open] summary::before{content:"▾ ";}
+details.etc .item{max-width:640px;}
+footer.note{
+  margin-top:36px; padding-top:16px; border-top:3px double var(--ink);
+  font-size:0.8rem; color:var(--ink-soft);
+}
+footer.note .gen{margin-top:6px; font-size:0.74rem;}
+
+.status{padding:60px 0; text-align:center; color:var(--ink-soft); font-size:0.9rem;}
+
+@media (max-width:640px){
+  h1{font-size:1.55rem;}
+  .kw-head{grid-template-columns:1.5rem 1fr auto; padding:12px;}
+  .kw-panel{grid-template-columns:1fr;}
+  .col + .col{border-left:none; border-top:1px solid var(--line);}
+  .kw-counts{display:none;}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none !important;}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-top">
+      <h1>오늘의 여론<span class="press-dot">.</span><span class="voice-dot">.</span></h1>
+      <nav class="date-nav" aria-label="날짜 이동">
+        <button id="prevBtn" aria-label="이전 날짜">‹</button>
+        <select id="dateSel" aria-label="날짜 선택"></select>
+        <button id="nextBtn" aria-label="다음 날짜">›</button>
+      </nav>
+    </div>
+    <p class="tagline"><span class="swatch press"></span>언론 사설·논평과 <span class="swatch voice"></span>온라인 여론을 같은 키워드 아래 나란히 — 매일 아침 자동 갱신</p>
+  </header>
+
+  <div id="app"><p class="status">불러오는 중…</p></div>
+
+</div>
+
+<script>
+(function(){
+  const app = document.getElementById('app');
+  const dateSel = document.getElementById('dateSel');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  let dates = [];
+
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const safeUrl = u => (typeof u === 'string' && /^https?:\/\//i.test(u)) ? u : '';
+
+  function itemHTML(it){
+    const url = safeUrl(it.url);
+    const title = esc(it.title);
+    const body = url
+      ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${title}</a>`
+      : `<span class="nolink">${title}</span>`;
+    return `<div class="item"><span class="src">${esc(it.source)}</span>${body}</div>`;
+  }
+
+  function render(data){
+    const kws = Array.isArray(data.keywords) ? [...data.keywords] : [];
+    kws.sort((a,b) => (a.rank ?? 999) - (b.rank ?? 999));
+
+    let totPress = 0, totVoice = 0;
+    const rows = kws.map(k => {
+      const items = Array.isArray(k.items) ? k.items : [];
+      const press = items.filter(i => i.type === 'editorial');
+      const voice = items.filter(i => i.type === 'opinion');
+      totPress += press.length; totVoice += voice.length;
+      return {k, press, voice, total: press.length + voice.length};
+    });
+    const maxTotal = Math.max(1, ...rows.map(r => r.total));
+
+    const kwHTML = rows.map(({k, press, voice, total}) => {
+      const badge = press.length && voice.length
+        ? '<span class="badge both">언론+여론</span>'
+        : press.length ? '<span class="badge press-only">언론만</span>'
+        : '<span class="badge voice-only">여론만</span>';
+      const wPress = Math.round(press.length / maxTotal * 100);
+      const wVoice = Math.round(voice.length / maxTotal * 100);
+      const pressCol = press.length
+        ? press.map(itemHTML).join('')
+        : '<p class="col-empty">이 주제를 다룬 사설·논평이 수집되지 않았습니다.</p>';
+      const voiceCol = voice.length
+        ? voice.map(itemHTML).join('')
+        : '<p class="col-empty">이 주제의 온라인 여론이 수집되지 않았습니다.</p>';
+      return `
+      <section class="kw">
+        <button class="kw-head" aria-expanded="false">
+          <span class="kw-rank">${esc(k.rank)}</span>
+          <span class="kw-main">
+            <span class="kw-title-row">
+              <span class="kw-title">${esc(k.keyword)}</span>${badge}
+            </span>
+            ${k.gist ? `<span class="kw-gist">${esc(k.gist)}</span>` : ''}
+            <span class="kw-bar" aria-hidden="true">
+              <span class="seg-press" style="width:${wPress}%"></span>
+              <span class="seg-voice" style="width:${wVoice}%"></span>
+            </span>
+          </span>
+          <span class="kw-side">
+            <span class="kw-counts"><span class="c-press">언론 ${press.length}</span><br><span class="c-voice">여론 ${voice.length}</span></span>
+            <span class="chev">▼</span>
+          </span>
+        </button>
+        <div class="kw-panel">
+          <div class="col"><div class="col-h press">사설·논평 ${press.length}건</div>${pressCol}</div>
+          <div class="col"><div class="col-h voice">온라인 여론 ${voice.length}건</div>${voiceCol}</div>
+        </div>
+      </section>`;
+    }).join('');
+
+    const etc = Array.isArray(data.etc) ? data.etc : [];
+    const etcHTML = etc.length ? `
+      <details class="etc">
+        <summary>키워드로 묶이지 않은 항목 ${etc.length}건</summary>
+        <div>${etc.map(itemHTML).join('')}</div>
+      </details>` : '';
+
+    const st = data.stats || {};
+    app.innerHTML = `
+      <section class="today">
+        <p class="headline">${esc(data.headline || '')}</p>
+        <div class="stats">
+          <span><span class="swatch press"></span>사설·논평 <b>${st.editorial_count ?? totPress}</b>건</span>
+          <span><span class="swatch voice"></span>여론 게시물 <b>${st.opinion_count ?? totVoice}</b>건</span>
+          <span>키워드 <b>${st.keyword_count ?? rows.length}</b>개</span>
+        </div>
+      </section>
+      <div class="controls">
+        <span class="section-label">오늘의 키워드</span>
+        <button class="toggle-all" id="toggleAll">모두 펼치기</button>
+      </div>
+      <div id="kwList">${kwHTML}</div>
+      ${etcHTML}
+      <footer class="note">
+        <div>${esc(data.method_note || '')}</div>
+        <div class="gen">생성 시각: ${esc(data.generated_at || '')} · 각 제목은 원문으로 연결됩니다. 여론 게시물 제목은 요지를 재서술한 것입니다.</div>
+      </footer>`;
+
+    // 아코디언
+    app.querySelectorAll('.kw-head').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const sec = btn.closest('.kw');
+        const open = sec.classList.toggle('open');
+        btn.setAttribute('aria-expanded', open);
+      });
+    });
+    const toggleAll = document.getElementById('toggleAll');
+    toggleAll.addEventListener('click', () => {
+      const secs = app.querySelectorAll('.kw');
+      const anyClosed = [...secs].some(s => !s.classList.contains('open'));
+      secs.forEach(s => {
+        s.classList.toggle('open', anyClosed);
+        s.querySelector('.kw-head').setAttribute('aria-expanded', anyClosed);
+      });
+      toggleAll.textContent = anyClosed ? '모두 접기' : '모두 펼치기';
+    });
+  }
+
+  function showStatus(msg){ app.innerHTML = `<p class="status">${esc(msg)}</p>`; }
+
+  async function loadDate(date){
+    showStatus('불러오는 중…');
+    try{
+      const res = await fetch(`data/${date}.json`, {cache:'no-store'});
+      if(!res.ok) throw new Error(res.status);
+      render(await res.json());
+    }catch(e){
+      showStatus(`${date} 데이터를 불러오지 못했습니다. 루틴이 아직 실행되지 않았거나 파일이 없습니다.`);
+    }
+    const i = dates.indexOf(date);
+    prevBtn.disabled = i >= dates.length - 1;  // dates는 최신순
+    nextBtn.disabled = i <= 0;
+  }
+
+  function setupNav(){
+    dateSel.innerHTML = dates.map(d => `<option value="${esc(d)}">${esc(d)}</option>`).join('');
+    dateSel.addEventListener('change', () => loadDate(dateSel.value));
+    prevBtn.addEventListener('click', () => {
+      const i = dates.indexOf(dateSel.value);
+      if(i < dates.length - 1){ dateSel.value = dates[i+1]; loadDate(dateSel.value); }
+    });
+    nextBtn.addEventListener('click', () => {
+      const i = dates.indexOf(dateSel.value);
+      if(i > 0){ dateSel.value = dates[i-1]; loadDate(dateSel.value); }
+    });
+  }
+
+  async function init(){
+    try{
+      const res = await fetch('data/index.json', {cache:'no-store'});
+      if(!res.ok) throw new Error(res.status);
+      const idx = await res.json();
+      dates = Array.isArray(idx.dates) ? idx.dates : [];
+    }catch(e){ dates = []; }
+
+    if(dates.length){
+      setupNav();
+      dateSel.value = dates[0];
+      loadDate(dates[0]);
+    }else{
+      // index.json이 없으면 latest.json으로 폴백
+      try{
+        const res = await fetch('data/latest.json', {cache:'no-store'});
+        if(!res.ok) throw new Error(res.status);
+        const data = await res.json();
+        dates = [data.date]; setupNav(); dateSel.value = data.date;
+        render(data);
+        prevBtn.disabled = true; nextBtn.disabled = true;
+      }catch(e){
+        showStatus('아직 데이터가 없습니다. 루틴을 한 번 실행하면 이 자리에 오늘의 브리핑이 나타납니다.');
+      }
+    }
+  }
+  init();
+})();
+</script>
+</body>
+</html>
