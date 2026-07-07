@@ -1,0 +1,27 @@
+name: Auto-merge routine PRs
+
+# 수집 루틴이 claude/* 브랜치로 여는 PR을 main에 자동 병합한다.
+# → GitHub Pages(main 서빙)가 사람 개입 없이 매일 아침 갱신된다.
+
+on:
+  pull_request_target:
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  automerge:
+    # 이 저장소의 claude/* 브랜치에서 온 PR만 대상 (포크 PR 제외)
+    if: >-
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      startsWith(github.event.pull_request.head.ref, 'claude/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge PR into main
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: gh pr merge "$PR" --repo "$REPO" --merge --admin --delete-branch
