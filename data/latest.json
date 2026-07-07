@@ -1,48 +1,93 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T07:00:00+09:00",
-  "headline": "샘플 데이터입니다 — 루틴이 처음 실행되면 실제 브리핑으로 교체됩니다",
+  "generated_at": "2026-07-07T09:10:00+09:00",
+  "headline": "정보통신망법 시행에 '표현의 자유' 논쟁 최고조 — 삼성 89조 실적·캐나다 잠수함 수주 실패도 화두",
   "stats": {
-    "editorial_count": 6,
-    "opinion_count": 5,
-    "keyword_count": 3
+    "editorial_count": 18,
+    "opinion_count": 11,
+    "keyword_count": 7
   },
   "keywords": [
     {
-      "keyword": "샘플 의제 A",
+      "keyword": "정보통신망법·표현의 자유",
       "rank": 1,
-      "gist": "언론과 온라인 여론이 함께 다룬 의제의 예시입니다.",
+      "gist": "허위조작정보 징벌적 손배를 담은 개정 정보통신망법이 오늘 시행되며 '표현의 자유 위축이냐, 악성 허위정보 차단이냐'를 두고 언론과 온라인이 정면으로 맞붙었다.",
       "items": [
-        { "type": "editorial", "source": "샘플신문", "title": "사설 제목이 이 자리에 표시됩니다", "url": "" },
-        { "type": "editorial", "source": "샘플일보", "title": "URL이 있으면 제목이 원문으로 연결됩니다", "url": "" },
-        { "type": "editorial", "source": "샘플방송", "title": "방송사 논평·해설도 함께 수집됩니다", "url": "" },
-        { "type": "opinion", "source": "샘플커뮤니티", "title": "여론 게시물의 요지가 재서술되어 표시됩니다", "url": "" },
-        { "type": "opinion", "source": "Reddit", "title": "해외 커뮤니티의 반응 예시", "url": "" }
+        { "type": "editorial", "source": "조선일보", "title": "[사설] 비방 목적과 고의성 여부를 누가 판단한다는 건가", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3Nsc3ZZY0o2a3YtNWxrWHRxSDVIVmVEblB2UGE0Z1I0UF9vOU9qTE9BWjdEYV9EUnZINEc3dElDMlBzTkxDck5fcFI5dFhac2thblJzLXlNSi13NFA4cXF3TXV0bFF6eFAxWlZ3RTZMRGRlaUpIam45RTkteFJhOWlWVFdYQQ?oc=5" },
+        { "type": "editorial", "source": "경인일보", "title": "[사설] 시행 이후 더 뜨거워지는 개정 정보통신망법 논란", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyc1E3My1rVnJfelZFTlp0bUFwbHZwcnY2b3JId1JhZ29nTjUwaERvWmhiMllUT0VoczF4VnZEbW1tdHpjYTBIMDg2M0pZRnMtNlE?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "표현의 자유보다 사회의 안녕이 우선인지 두고 벌어진 갑론을박", "url": "" },
+        { "type": "opinion", "source": "네이트판", "title": "오늘부터 악플 제3자 고소가 가능해졌다는 시행 첫날 소식과 우려", "url": "" },
+        { "type": "opinion", "source": "보배드림", "title": "야당(국민의힘)이 허위정보 처벌법 시행에 반대하는 이유를 정리한 게시물", "url": "" }
       ]
     },
     {
-      "keyword": "샘플 의제 B",
+      "keyword": "삼성전자 실적",
       "rank": 2,
-      "gist": "언론만 다룬 의제는 '언론만' 배지가 붙습니다.",
+      "gist": "삼성전자 2분기 영업이익이 89조 원대에 이르며 엔비디아를 넘어섰다는 소식에, 언론은 '초격차 지속' 과제를, 온라인은 반도체주 향방을 주목했다.",
       "items": [
-        { "type": "editorial", "source": "샘플경제", "title": "언론에서만 관찰된 의제의 사설 예시", "url": "" },
-        { "type": "editorial", "source": "샘플신문", "title": "같은 키워드로 묶인 두 번째 사설", "url": "" },
-        { "type": "editorial", "source": "샘플통신", "title": "통신사 이슈분석 기사 예시", "url": "" }
+        { "type": "editorial", "source": "한겨레", "title": "[사설] 엔비디아도 뛰어넘은 삼성전자 실적, 기술혁신 매진해야", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QZWF2akx6aGhPa01sMkFMUGV0RHhvc2tmS2hCdF9kVTY3NEJ0U2hSeFJFZFZ4b0s0RVd2dGhqT2tsemtSNzBWMDF2VHg4eVRyRko3OTZYWFkzN2Z3TGlKUlJYeG9MazZ4QWc?oc=5" },
+        { "type": "editorial", "source": "동아일보", "title": "[사설]엔비디아 넘은 삼성… 美中日 추격 확실히 뿌리쳐야", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hWUhhWnZDWUgwd1BSRkh0Y1otQXBNTGptWE9ma193SnZmMk1fOWVIZEVBX1RucEhlWlNBbm1YeGljZjMzdzJhX0dTQjdQWnMxZmI1aGhvV2VuVTBPVmM0ZjVyYWZ6OGRSVDg3X1g2NEhJRWZ6TlHSAWZBVV95cUxPeHZZWTl2Q1JVY0pTaGtkWFdmWGwyUjhzNEN1a250MU9YdGdRbnFsa21na1luaElFcVIwV1Y4NW0yS25MZ0REdFZLSEUyMmZiTzhhOVM0LWRoYlQ2c2VGR1YzeGMxd3c?oc=5" },
+        { "type": "editorial", "source": "파이낸셜뉴스", "title": "[사설] 삼성전자 최대 실적, 초격차 기술만이 미래 보장", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ob0stX3pTVnd5RGp1Qmg4cHBqWF9sQkJlU1lwd3hyZ1pJRjhQV3NmNmFqTmttREFNVlZvX0c0N1BjVm1MYTNxMVVMdDZXZWw5Wm1GekU1a0JNQQ?oc=5" },
+        { "type": "opinion", "source": "보배드림", "title": "삼성·SK하이닉스 실적 발표를 두고 반도체주 향방을 논하는 게시물", "url": "" },
+        { "type": "opinion", "source": "루리웹", "title": "블룸버그가 미국 증시 하락을 삼성 탓으로 지목했다는 보도에 대한 반응", "url": "" }
       ]
     },
     {
-      "keyword": "샘플 의제 C",
+      "keyword": "K방산·나토",
       "rank": 3,
-      "gist": "커뮤니티에서만 화제인 자생 의제는 '여론만' 배지가 붙습니다.",
+      "gist": "캐나다 잠수함 수주 실패를 계기로 언론은 'K방산의 동맹·외교 한계'를 짚었고, 나토 정상회의에 참석하는 대통령의 방산 외교로 논의가 이어졌다.",
       "items": [
-        { "type": "opinion", "source": "샘플커뮤니티", "title": "언론이 다루지 않은 온라인 자생 이슈 예시", "url": "" },
-        { "type": "opinion", "source": "샘플카페", "title": "인기글 게시판에서 수집된 게시물 요지", "url": "" },
-        { "type": "opinion", "source": "X(트위터)", "title": "트렌드에서 관찰된 반응 예시", "url": "" }
+        { "type": "editorial", "source": "중앙일보", "title": "[사설] 캐나다 잠수함 수주 실패, 안보협력 없는 K방산의 한계", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqY1ZaTm95M29ROXN6eHIxX1hQcW93bHVmRVhjT3o2SVBQLUxQc01VTUZDMC1BemtMME9CUVd3eEtIbGlaUS1nQVcwY1JIbDU0ZmFrWk5B?oc=5" },
+        { "type": "editorial", "source": "서울신문", "title": "[사설] 잠수함 수주 무산… 李 나토 정상회의서 할 일 분명해졌다", "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aWW9tYjRPdEpLVUdMNlY5V3VjS1lsdVRZTmJqVVAzc19tdGJKZVBrYmw1VHZMTkcwU3hubnBXUUVnSkhZVmNpRDJyMWpfa2FtS3lGMF94R3lxVUxjbm9vNFlR?oc=5" },
+        { "type": "editorial", "source": "파이낸셜뉴스", "title": "[사설] 캐나다 잠수함 고배, K방산 경쟁력 강화 계기로", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTmFMWnVTalp2X3BleEFOVnRjYmRVcHpRLTNKQ3dQblUwc3llWUVqY1RLWkJXcjlqc2w5R1ZRS25XUHFZQTJYMU1qLTlGRjVGd3JqYUs4Vkljdw?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "대통령의 '한-나토 방산 파트너십 2.0 격상' 제안에 대한 커뮤니티 반응", "url": "" }
+      ]
+    },
+    {
+      "keyword": "부동산 대책",
+      "rank": 4,
+      "gist": "보유세·거래세 개편과 공급 대책, 부동산감독원 설치를 둘러싸고 언론은 '공급만으론 부족'과 '과잉 입법' 사이에서 갈렸고, 온라인은 역대 정책과 비교했다.",
+      "items": [
+        { "type": "editorial", "source": "서울경제", "title": "[사설] 정부 '보유세·거래세 균형', 주택시장 공급 안정에 초점을", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oaEVLUnh3elhGTU1rRDk2b0hGY0JyeXJrc2hfUnVvakZ3eFIyQTV1MEM4WFVVcFpiQkp1U20xQkZlT29Sbmd4bU5FRXlxWlVKTHfSAVNBVV95cUxPMUFwSGg5a2g1YUNnSU54NExRNlhUaW9LSkd0NUtmYkVuekZqOWRsbmE4X2lPQXk2MzNzdktNUzN0N01jYm15TVk3UlRLMUU4b3ZRVQ?oc=5" },
+        { "type": "editorial", "source": "아주경제", "title": "[아주사설] 닥치고 공급만으론 서울 집값 못 잡는다", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybE1TOWZhdlFwdmRfQndpcnJ2eUhGLU9kRV9wRUF0eUF0OFB3T1ctNFhtR2Q3WldPWUJTVWVfRmtpUUdfa2l3cElQYm5VcUo1c1ctbDdUNXVGUdIBWEFVX3lxTFBiVGJ5eXI3TWY2MlBHV1h2c3pCenB5QzB4eWNzNTYwVS1VRHZOaFFNT1FIX2pmX3BlSmhSeklfS194MFpwMnNHcmlJbjAwTmlycGUyeWdSOFQ?oc=5" },
+        { "type": "editorial", "source": "한국경제", "title": "[사설] 주가누르기 방지법·부동산감독원 설치, 과잉 입법 아닌가", "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrSUxKaWVGbTIxTWJsTmFpN0NnY1VUdEE2Y2IwbEpEQ3diQVMzRWRhWk1KTm9WY3gzb1Fmc196VXFtSjJJYXYyaGdaamFNbm5uNm1JeNIBVEFVX3lxTFBrSUxKaWVGbTIxTWJsTmFpN0NnY1VUdEE2Y2IwbEpEQ3diQVMzRWRhWk1KTm9WY3gzb1Fmc196VXFtSjJJYXYyaGdaamFNbm5uNm1JeA?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "역대 정부의 부동산 정책을 비교·정리한 게시물", "url": "" }
+      ]
+    },
+    {
+      "keyword": "보완수사권",
+      "rank": 5,
+      "gist": "검찰 보완수사권 폐지 개정안을 두고 검찰이 강하게 반발하면서, 언론은 '졸속 입법' 우려를, 온라인은 검·경 신뢰 문제를 놓고 공방을 벌였다.",
+      "items": [
+        { "type": "editorial", "source": "서울신문", "title": "[사설] 보완수사권 폐지에 檢 '우려 심각'… 졸속 개정안 멈춰야", "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4c2c2RkJ2bS15eEpnYmVDaDZxS281NnlVc0g2MjcxOE9tVnVWVVhCSFJwUXNPSEVzZ2ZQcElGNVFpSFVzRnVLZUpwWlF3N2p2OEtSU2ZUQWZJNUN0dnV0bzNR?oc=5" },
+        { "type": "editorial", "source": "아시아경제", "title": "[사설] 이런 경찰 믿을 수 있나, 보완수사권 살려야", "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QVDMwMm0tTWtjUjJUS2NydW1POFhYU01XT3VDdjVqVnE0TnZmZVZQR2hTSV95Slp1U1lHbi1lTE00S3hMOEpsRGhQQjBjUUk1OHFDVHBoQnBaTEJGMmNCMg?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "검찰에 보완수사권을 줘야 하는지를 두고 벌어진 논쟁", "url": "" }
+      ]
+    },
+    {
+      "keyword": "국민의힘 징계 정치",
+      "rank": 6,
+      "gist": "장동혁 지도부의 무더기 징계 방침과 5·18 망언 이병태 인사 사퇴를 두고, 언론은 진영을 막론하고 '징계 정치'의 명분과 통합 인사 원칙을 비판적으로 짚었다.",
+      "items": [
+        { "type": "editorial", "source": "한겨레", "title": "[사설] 사퇴 압박 피하려고 '징계 정치' 꺼내든 장동혁", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kV0ZJMGt2eVhVNU1jZkMyRm9KQUdFSnRrT2lRZkxOUTVyaFVoNm9IalVxMEttQU1SUC1CTW1VQThTZ19TbHJjemF0MnU3TDV5VFVNSEtqWEhrQlpOaG9HalFFQ0o0T2xmc1E?oc=5" },
+        { "type": "editorial", "source": "문화일보", "title": "의원 수십 명이 징계 대상이라니… 張 신임투표라도 해야 [사설]", "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HRnREbFB5WTUxUFZ3STV2b21nX0d4T01PaEtwZURib1NzVU9wbmVUc3BGTlZsT05pczh0dFRZS3lwTTZQZTJFZFJVWmhKS1dP?oc=5" },
+        { "type": "editorial", "source": "경향신문", "title": "[사설] 5·18 망언 이병태 사퇴, 통합인사 원칙 재정비 계기로", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aSXd6d0U1RmF3ZlRKbUNCd2lMYjREZmNJMWV3NFQ1cElOYzFxVjJycFFsQTJGbGlPNEkxVlBHV2VYb2otOUpJbEVRbFBPT0s2TXFwVW9zTkE0d9IBX0FVX3lxTE9DVUE1akJLYWg0YnVXZXpUNm5DRXB4UHRRb1FXbkF2TUN6Vll1ZFE3Q3hOVXN5bWJqRURuWVNFLVBKZmFTcHdrMDZXTzBFUHZlTE53SFVLY2VNTEE5MVBB?oc=5" }
+      ]
+    },
+    {
+      "keyword": "청소년 학업 이탈",
+      "rank": 7,
+      "gist": "언론 사설에는 잡히지 않았지만, '고1 자퇴생 1만 명'을 근거로 정부·여당의 청소년·교육 정책 대응을 촉구하는 목소리가 커뮤니티에서 자생적으로 확산됐다.",
+      "items": [
+        { "type": "opinion", "source": "클리앙", "title": "고1 자퇴생이 1만 명에 달한다며 정부·여당의 청소년 정책 대응을 촉구하는 글", "url": "" }
       ]
     }
   ],
   "etc": [
-    { "type": "editorial", "source": "샘플신문", "title": "키워드로 묶이지 않은 단독 사설은 이 접이식 목록에 들어갑니다", "url": "" }
+    { "type": "editorial", "source": "아시아경제", "title": "[사설] 정유사 담합, 과점구조 안 고치면 반복된다", "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tYzdWZlAwZE0zYXdDS1k4am9xYnVla2FSSVNiME1hVmxtTUVMOGFVUGhtenV3TFpvdlVYZWN1OEhyVngzUWdvdU1WajVGNDhPTUU3cnVOX2FmUVlGNnhwMA?oc=5" },
+    { "type": "editorial", "source": "글로벌이코노믹", "title": "[사설] 재정개혁 시금석 된 교육교부금 개편", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0hRVnQxSlotSzE3VU02YWlhUTg4ZTZJR3RibmhVM0ZMNEZKeUhMUjl4QWV0azBabkdzNy1RbjFuT3B5M3N3NlN4OHRialFPS2EycmlvX0Ffb3hGT3RHUEpqM29xcld3RW52UHhuMU9OY2FBYWwyUnFCOGJtTDNHWXRWQW0?oc=5" },
+    { "type": "opinion", "source": "루리웹", "title": "'왜 남성만 군 복무하나'를 두고 헌재의 병역 형평성 판단을 정리한 게시물", "url": "" },
+    { "type": "opinion", "source": "클리앙", "title": "홍명보 축구대표팀 감독이 국회 청문회 출석 의사를 밝힌 데 대한 반응", "url": "" }
   ],
-  "method_note": "이 파일은 대시보드 확인용 샘플 데이터입니다. 루틴 첫 실행 시 실제 수집 결과로 덮어써집니다."
+  "method_note": "언론 사설은 Google 뉴스 RSS(사설·논평 검색)로, 여론은 클리앙·보배드림·루리웹·네이트판 인기글 페이지를 직접 수집했습니다. 사설 제목·매체명은 원문 기준이며 링크는 뉴스 aggregator 경유입니다. 네이버·언론사 직접 fetch와 에펨코리아·더쿠는 접근 차단(403/429)으로 제외했습니다. 여론 게시물은 목록 페이지에서 수집해 개별 URL을 확보하지 못했고, 제목은 원문을 재서술한 요지입니다."
 }
