@@ -1,192 +1,183 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T09:28:00+09:00",
-  "headline": "반도체 고점론에 코스피·코스닥 이틀째 5%대 급락 — 언론·여론 모두 '증시 변동성'에 촉각, 안규백 탈영 의혹·MASGA 조선협력·집중호우가 뒤이은 화두",
-  "stats": {
-    "editorial_count": 20,
-    "opinion_count": 26,
-    "keyword_count": 15
-  },
+  "generated_at": "2026-07-09T10:40:00+09:00",
+  "headline": "검찰 보완수사권 폐지 논쟁이 언론 사설과 커뮤니티 여론을 함께 관통했고, 국민의힘 전당대회 파열음과 '일베·혐오표현' 논란이 온라인 자생 의제로 달아올랐다.",
+  "stats": { "editorial_count": 25, "opinion_count": 42, "keyword_count": 15 },
   "keywords": [
     {
-      "keyword": "증시 급락·환율",
-      "rank": 1,
-      "gist": "반도체 고점론 공포에 코스피·코스닥이 이틀째 5%대로 급락해 매도 사이드카까지 발동하자, 언론은 '오징어 게임' 된 증시의 변동성 대책을 촉구했고 온라인에서는 급락 공포와 함께 원/달러 환율 급락(원화 강세)·금값 전망을 두고 반응이 엇갈렸다.",
-      "items": [
-        { "type": "editorial", "source": "서울신문", "title": "[사설] '오징어 게임' 된 한국 증시… 변동성 대책 서둘러야", "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1lrSEpFQWlxRHphR2VSdjJ4NEJIRUVDblhJZWhzbFJZbjRtcnFiVk8zak9JQ3FKMmtpTVlINXZScjVuSEhTOFJfS1JRUTJORHdXQkZESUdxVkFaeEpVUGZyMHlwRzU0YjU4ZU5QRXN3ZnNUcUFyTmp5d0dTREJ4cDNB" },
-        { "type": "opinion", "source": "클리앙", "title": "원/달러 환율이 큰 폭 떨어져 오히려 다행이라는 반응", "url": "https://www.clien.net/service/board/park/19223518" },
-        { "type": "opinion", "source": "루리웹", "title": "원/달러 환율 1500원대가 무너졌다는 소식", "url": "https://bbs.ruliweb.com/best/board/300143/read/75877690" },
-        { "type": "opinion", "source": "보배드림", "title": "앞으로 금값이 더 오를 일은 없다는 전망을 담은 글", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007554" }
-      ]
-    },
-    {
-      "keyword": "여야 전당대회·정국",
-      "rank": 2,
-      "gist": "민주당 전당대회가 김민석·정청래 등 당권 주자들의 선명성 경쟁으로 흐르고 이재명 대통령·여당 지지율은 동반 급등한 가운데, 조선일보는 '부동산 현안은 뒷전인 사화'라며 각을 세워 언론과 여론의 온도차가 드러났다.",
-      "items": [
-        { "type": "editorial", "source": "조선일보", "title": "[사설] 부동산 걱정 한마디 없이 조선시대 사화 벌이는 집권당 전대", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeXlCUkNMWGFpMkdvaEk4eE5RZWlia0xjc18tVFBfOGtBMlpMVGpReW5yeERxQjFjeS1FNnQxSjZvdk5kQ0xYR3NMNi1JRHhxR2hwM1ZraWhma1lneWFCZjRhLS1SZTA3X0R1M3Rpa0puS3pYN1JUdG52WThnQTB5WXI4OVltUQ" },
-        { "type": "opinion", "source": "클리앙", "title": "민주당 지지층 당대표 적합도 조사에서 김민석이 정청래·송영길을 앞섰다는 결과", "url": "https://www.clien.net/service/board/park/19223509" },
-        { "type": "opinion", "source": "클리앙", "title": "KSOI 조사에서 이재명 대통령과 민주당 지지율이 동반 급등했다는 결과", "url": "https://www.clien.net/service/board/park/19223495" },
-        { "type": "opinion", "source": "클리앙", "title": "정청래 의원이 당의 정통성을 앞세워 선명성 경쟁을 한다는 관전평", "url": "https://www.clien.net/service/board/park/19223493" }
-      ]
-    },
-    {
-      "keyword": "안규백 탈영 의혹",
-      "rank": 3,
-      "gist": "안규백 국방장관 후보자의 '탈영 의혹'을 놓고 조선일보는 의혹 규명 없이 군 개혁이 되겠냐 물었고, 한동훈은 청와대 책임론까지 제기했으며, 안 후보자는 계엄 당시 국회 아닌 당사 집결을 한동훈이 먼저 요구했다고 맞받아쳤다.",
-      "items": [
-        { "type": "editorial", "source": "조선일보", "title": "[사설] 탈영 의혹 해소 않고 어떻게 軍 뜯어고치겠나", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNhSzdvaXJ0YXIySFZicmFUUkdFRl9jRDdUbHNFRFhIS1ZsOFR5Xzg1aUZaQXRZYVJ1VWNlamFnc25pRldLaktiTFhNSGhhcmZNamtJLVhEUnZTekJWVnNxOS1GTERCaG44WlJOVGpzUVVQcW1vSHhxZmRTdFl6Sl9JQXo1UQ" },
-        { "type": "opinion", "source": "클리앙", "title": "한동훈이 안규백 후보자의 '탈영 의혹' 규명을 요구하며 청와대 책임론을 제기했다는 소식", "url": "https://www.clien.net/service/board/park/19223491" },
-        { "type": "opinion", "source": "클리앙", "title": "안규백이 계엄 당시 국회 아닌 당사 집결을 한동훈이 먼저 요구했다고 반박했다는 내용", "url": "https://www.clien.net/service/board/park/19223479" }
-      ]
-    },
-    {
-      "keyword": "미국 조선·함정 협력",
-      "rank": 4,
-      "gist": "미국이 한국 조선사에 전투함 건조 정보를 요청하고 정상 간 협력까지 거론되자, 언론은 이른바 'MASGA(한미 조선동맹)'를 세계 조선공급망 선점의 기회로 삼아야 한다고 주문했다.",
-      "items": [
-        { "type": "editorial", "source": "아시아투데이", "title": "[사설] 美 함정건조 타진, 세계 조선공급망 선점 기회로", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83cURIT0hiN3pWaWRQc2pNSWNaVUxiZnVicmdYeUZGWGJUMFlPYlFpbkVuSVh5dVVYbk03N0JMaWpFZnRxbDB6SVpoaEgtMjhRWEhGQ3hhUXZRdmNzUm5pVVV2dVRTSEFvWWdmcWhB" },
-        { "type": "editorial", "source": "국민일보", "title": "[사설] 군함 건조 역량 타진한 미국… MASGA 닻 내릴 기회 삼아야", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBja1I4dl8yblNUdllnMmswcHJTcVpteUwwNndJeEI3TmUwVUhIRlpVTnNfamU2VXM2RzhBQ2VBZE9RTW5Wa084cjNmazl1TVB4eG1tM28yVGY0bm5QRnJ6LXM5MzV3VzZFQV9kY9IBbEFVX3lxTFBja1I4dl8yblNUdllnMmswcHJTcVpteUwwNndJeEI3TmUwVUhIRlpVTnNfamU2VXM2RzhBQ2VBZE9RTW5Wa084cjNmazl1TVB4eG1tM28yVGY0bm5QRnJ6LXM5MzV3VzZFQV9kYw" },
-        { "type": "opinion", "source": "클리앙", "title": "미국이 한국 조선사에 전투함 정보를 요청하고 정상 간 건조협력을 논의했다는 보도", "url": "https://www.clien.net/service/board/park/19223505" }
-      ]
-    },
-    {
       "keyword": "보완수사권 폐지",
+      "rank": 1,
+      "gist": "검찰 보완수사권 폐지 입법을 두고 언론은 여당 내부 신중론까지 소개하며 속도조절을 주문하는 반면, 커뮤니티에서는 '검찰개혁 완수' 환영론과 '형사사건 처리 공백' 우려가 정면으로 맞선다.",
+      "items": [
+        { "type": "editorial", "source": "중앙일보", "title": "[사설] 여당 내부에서도 나오는 보완수사권 폐지 신중론", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWnJjOEx3MFRKVE5CNF9YMVkxamNUSU5NbHFydS1vLVh3WnVKcFk3X25kV0Q3dk5UY2h5enY0Y1ZwVGJhZHkwTFhGcFJJNXpPakh3cDV3?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "검찰청 폐지 86일을 앞두고 보완수사권 폐지를 강행하려는 움직임을 비판하는 글", "url": "https://www.clien.net/service/board/park/19223575" },
+        { "type": "opinion", "source": "클리앙", "title": "여러 정황상 보완수사권은 결국 폐지되지 않을 것이라는 전망", "url": "https://www.clien.net/service/board/park/19223561" },
+        { "type": "opinion", "source": "클리앙", "title": "보완수사권이 형사사건 처리에서 실무적으로 중요하다는 옹호론", "url": "https://www.clien.net/service/board/park/19223530" },
+        { "type": "opinion", "source": "클리앙", "title": "특정 언론만 보면 사실이 누락된다는, 보완수사권 보도 편향 지적", "url": "https://www.clien.net/service/board/park/19223577" },
+        { "type": "opinion", "source": "클리앙", "title": "김규현 변호사가 보완수사권 논쟁에 대해 남긴 페이스북 글 소개", "url": "https://www.clien.net/service/board/park/19223563" },
+        { "type": "opinion", "source": "보배드림", "title": "개혁 지지층이 보완수사권 폐지를 환영한다는 입장 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042087" },
+        { "type": "opinion", "source": "보배드림", "title": "보완수사권을 폐지할 경우 국민의힘 지지층이 겪을 피해 사례 전망", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042086" },
+        { "type": "opinion", "source": "루리웹", "title": "검찰 미래위 조사단이 사실상 공소취소용 특검 기구라는 주장", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669884" }
+      ]
+    },
+    {
+      "keyword": "국민의힘 전당대회",
+      "rank": 2,
+      "gist": "언론은 부동산·민생 대신 '사화식 징계정치'에 몰두하는 여당 전대를 질타하고, 커뮤니티에서는 장동혁·한동훈 리더십을 둘러싼 조롱과 훈수가 쏟아진다.",
+      "items": [
+        { "type": "editorial", "source": "조선일보", "title": "[사설] 부동산 걱정 한마디 없이 조선시대 사화 벌이는 집권당 전대", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeXlCUkNMWGFpMkdvaEk4eE5RZWlia0xjc18tVFBfOGtBMlpMVGpReW5yeERxQjFjeS1FNnQxSjZvdk5kQ0xYR3NMNi1JRHhxR2hwM1ZraWhma1lneWFCZjRhLS1SZTA3X0R1M3Rpa0puS3pYN1JUdG52WThnQTB5WXI4OVltUQ?oc=5" },
+        { "type": "editorial", "source": "경향신문", "title": "[사설] 대표 자리 연명하려 징계정치 이어 장외로 나가는 장동혁", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pMVNTRGh0VEFFcFFael90a3A1OWJVX0FFbGlJYmlWSzFydDktX0lWbnU1c21GQ1VRYzFGa1JyRmR2SUp0b0VlRzI0RlpxSW5aUzdvbE5kZDd4QQ?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "김규현 변호사가 한동훈을 겨냥해 남긴 페이스북 글 소개", "url": "https://www.clien.net/service/board/park/19223544" },
+        { "type": "opinion", "source": "보배드림", "title": "박은정 의원이 '조선일보와 한동훈은 빠지라'고 한 발언 소개", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007603" },
+        { "type": "opinion", "source": "보배드림", "title": "정청래 측이 결과적으로 한동훈을 대권주자로 키워주는 셈이라는 주장", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042085" }
+      ]
+    },
+    {
+      "keyword": "혐오 표현·일베 논란",
+      "rank": 3,
+      "gist": "학교 현장의 혐오 표현 확산을 우려하는 사설과, '집게손'·'무섭노'·배재고 사건 등 커뮤니티에서 벌어지는 일베·혐오 코드 공방이 나란히 오늘의 사회적 화두를 이룬다.",
+      "items": [
+        { "type": "editorial", "source": "동아일보", "title": "[사설] 올 1학기 교사 67% \"학생들 혐오 표현 경험\"… '학폭'만큼 심각", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sWU9XWld0aF92LXB3Tl9GcTc0aHlGNlhMTWdaV1pVSE5CUC16cUdNR3BxTDFQelNXRF9YZzRIT1pDWWtEODNxMXRVY2o1aGthUV9TZFJjWGZYNEdtZHVWZktGSk1QeVhPSHZFQ19XVGNnNHh6bnc?oc=5" },
+        { "type": "editorial", "source": "수원화성신문", "title": "[사설] 안민석의 '교권보호국'에 거는 기대", "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1UU3lrVkJhQm9wUEJ3NW9Vb1VKT1F1cnVxT0FLd19ERDg5dXNvZWJaWEVnd0RySlZPZXJpenVaeFplZ1k?oc=5" },
+        { "type": "opinion", "source": "보배드림", "title": "'김 부장' 일베 논란의 경위를 정리한 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1041686" },
+        { "type": "opinion", "source": "보배드림", "title": "배재학당 총동창회가 일베 논란과 관련해 낸 공지문 소개", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1041114" },
+        { "type": "opinion", "source": "보배드림", "title": "누구나 쓰는 '집게손' 손모양을 혐오 코드로 보는 논란에 대한 반박", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042080" },
+        { "type": "opinion", "source": "보배드림", "title": "경상도 사투리 '~노'와 일베식 '노'를 구분해야 한다는 주장", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042078" },
+        { "type": "opinion", "source": "보배드림", "title": "배재고 스타벅스·5·18 연관성 논란과 학생 경위서 내용 소개", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007608" },
+        { "type": "opinion", "source": "보배드림", "title": "국민의힘이 10대를 극우·혐오 코드에 노출시킨다는 비판", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007609" },
+        { "type": "opinion", "source": "보배드림", "title": "일베 사과문마저 놀이처럼 소비된다는 지적", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007595" },
+        { "type": "opinion", "source": "루리웹", "title": "'무섭노' 같은 표현이 혐오냐를 두고 벌어진 논쟁", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669882" }
+      ]
+    },
+    {
+      "keyword": "한미일 안보·방산협력",
+      "rank": 4,
+      "gist": "SMR·함정건조 등 한미일 산업·안보 공조를 기회로 삼자는 사설이 다수인 가운데, 한겨레는 나토와의 군사 밀착이 부를 지정학 리스크를 경계한다.",
+      "items": [
+        { "type": "editorial", "source": "동아일보", "title": "[사설] SMR 3국 공조… '韓 시공-美 기술-日 부품'으로 세계시장 주도를", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWaDc5TTlNWU9BUXdPeW9IQnlQVmR4SW9BT2EwY1U5ZTlOczB1WlNNbFZRYTREcE1BNWpOMFdvZ3B0aWNnTmRUc3E4YjVNc2RJWmZpcVV2aGczQjkzdHV6b0Rkc2hHZUJDRngxWG55clh3LWNWSFE?oc=5" },
+        { "type": "editorial", "source": "아시아투데이", "title": "[사설] 美 함정건조 타진, 세계 조선공급망 선점 기회로", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83cURIT0hiN3pWaWRQc2pNSWNaVUxiZnVicmdYeUZGWGJUMFlPYlFpbkVuSVh5dVVYbk03N0JMaWpFZnRxbDB6SVpoaEgtMjhRWEhGQ3hhUXZRdmNzUm5pVVV2dVRTSEFvWWdmcWhB?oc=5" },
+        { "type": "editorial", "source": "국민일보", "title": "[사설] 군함 건조 역량 타진한 미국… MASGA 닻 내릴 기회 삼아야", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBja1I4dl8yblNUdllnMmswcHJTcVpteUwwNndJeEI3TmUwVUhIRlpVTnNfamU2VXM2RzhBQ2VBZE9RTW5Wa084cjNmazl1TVB4eG1tM28yVGY0bm5QRnJ6LXM5MzV3VzZFQV9kYw?oc=5" },
+        { "type": "editorial", "source": "한겨레", "title": "[사설] 방산 위해 나토와 '군사 밀착', 지정학적 리스크 고려했나", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNFkxU1U1RG4xQ3E4STJUUVJ1TGZSSTNmd3lTT3NfWkxjOTR1YUdYMWZvNVgzU21odVJGQUU3Yk9xQ1VsNkkwNl8weFVEbTM5UnNTX2V5ZkNmRzJKeVhuR2VvS0RWYVBRelE?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "한미일 외교장관이 소형모듈원자로(SMR) 배치 협력각서에 서명했다는 소식", "url": "https://www.clien.net/service/board/park/19223524" }
+      ]
+    },
+    {
+      "keyword": "반도체 기술·입지",
       "rank": 5,
-      "gist": "검경 수사권 재조정으로 경찰 보완수사권 폐지가 추진되자, 중앙일보와 여당 일각은 약자 피해를 들어 신중론을 폈고 온라인에서는 수사-기소 분리 절차와 'AI에 물어본 답'까지 화제가 됐다.",
+      "gist": "용인 반도체 부지 수용 부진을 걱정하는 사설과 함께, 삼성 기술 유출·국산화·호남 입지 갈등을 둘러싼 여론이 산업 안보 화두를 키운다.",
       "items": [
-        { "type": "editorial", "source": "중앙일보", "title": "[사설] 여당 내부에서도 나오는 보완수사권 폐지 신중론", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWnJjOEx3MFRKVE5CNF9YMVkxamNUSU5NbHFydS1vLVh3WnVKcFk3X25kV0Q3dk5UY2h5enY0Y1ZwVGJhZHkwTFhGcFJJNXpPakh3cDV3" },
-        { "type": "opinion", "source": "보배드림", "title": "보완수사권 폐지·중립·유지를 AI에 물어 답을 정리해 본 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042055" },
-        { "type": "opinion", "source": "클리앙", "title": "김용민·박은정안의 수사-기소 분리 절차를 정리한 글", "url": "https://www.clien.net/service/board/park/19223477" },
-        { "type": "opinion", "source": "보배드림", "title": "박은정 의원이 검찰개혁 논의에서 조선일보와 한동훈은 빠지라고 했다는 발언", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007603" }
+        { "type": "editorial", "source": "동아일보", "title": "[사설] 용인 반도체 토지 수용 38%뿐… 이곳 성공해야 서남권도 산다", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ib2FKdl9SWE1aVVZIZ2g4aHFYTkg5V0VnYjZOQlVwQVVERlZLdmZXbnY3N19MRlF2V0pCcU12NzRZOWVTWnJyT2VjYzlFTjQ0SGd2NmtCMjRwLXcwTUxHZ19lOUVROV9FeTJTMlRQaDZYT1pTM2c?oc=5" },
+        { "type": "opinion", "source": "보배드림", "title": "삼성전자 반도체 기술을 중국에 넘긴 전직 임원들에 대한 성토", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1041980" },
+        { "type": "opinion", "source": "보배드림", "title": "핵심 기술 국산화의 중요성을 강조하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1041742" },
+        { "type": "opinion", "source": "루리웹", "title": "반도체 국책사업의 호남 입지를 둘러싼 지역 갈등을 다룬 글", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669891" }
       ]
     },
     {
-      "keyword": "이재명 순방 외교",
+      "keyword": "부동산·전월세 대책",
       "rank": 6,
-      "gist": "이재명 대통령이 몽골·루마니아 등 순방 외교에 나서면서, 아주경제는 '외교의 다음 무대는 몽골'이라 짚었고 커뮤니티에서는 한-몽골 정상회담과 김혜경 여사 내조 외교가 화제가 됐다.",
+      "gist": "지자체 전월세 안심계약 서비스가 외면받는다는 사설과, 전세가 사라지는데 대출 규제가 맞느냐는 커뮤니티의 냉소가 임대차 시장 불안을 드러낸다.",
       "items": [
-        { "type": "editorial", "source": "아주경제", "title": "[아주사설│기본·원칙·상식] 대한민국 외교의 다음 무대는 왜 몽골이어야 하는가", "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIV3plYUNTRFJuWnFMWGV3dEUyQzlPNmxoa0NfZ3VOTFhiYy0xWHBmdDNXVjNiblV3MjRUcGNGVWxKRUFwRjIyS2NONA" },
-        { "type": "opinion", "source": "클리앙", "title": "이재명 대통령이 울란바타르에 도착해 한-몽골 정상회담에 나선다는 속보", "url": "https://www.clien.net/service/board/park/19223470" },
-        { "type": "opinion", "source": "보배드림", "title": "이재명 대통령이 루마니아 대통령과 정상회담을 한다는 소식", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042056" },
-        { "type": "opinion", "source": "클리앙", "title": "김혜경 여사가 튀르키예 전통 스카프 차림으로 내조 외교에 나섰다는 소식", "url": "https://www.clien.net/service/board/park/19223489" }
+        { "type": "editorial", "source": "중부일보", "title": "[사설] 외면받는 도내 '전월세 안심계약 서비스'", "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYWHdWS2xjVEZZRFVNcnVPaEs1Z1BlRlMzQUpONEJBS3c5UENLUjc4RFNDOGRiVUFfZnNFNUNGemJqMzNiVUNuQVpiYy1ZTm9GT1pLZ01qMXRWa1BaQ1J2RkYxRUVScHBDbUQ3Q0VoTQ?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "전세가 사라지는 상황에서 대출 규제가 맞는 방향이냐는 문제제기", "url": "https://www.clien.net/service/board/park/19223552" },
+        { "type": "opinion", "source": "클리앙", "title": "임대차 관련 정부 대책을 두고 '월세 깎아주라'는 거친 반응까지 나왔다는 글", "url": "https://www.clien.net/service/board/park/19223564" }
       ]
     },
     {
-      "keyword": "IMF 성장률 상향",
+      "keyword": "자영업·플랫폼 노동",
       "rank": 7,
-      "gist": "IMF가 올해 한국 성장률을 2.6%로 조사 대상 30개국 중 최대폭 상향하자, 언론은 '지표 반등을 체질 개선으로 이어가자'고 주문했고 커뮤니티도 오랜만의 낙관에 반색했다.",
+      "gist": "배달 라이더의 첫 노동자성 인정 판결을 계기로, 자영업 도태 대응과 라이더 상생 입법을 함께 주문하는 사설들이 이어진다.",
       "items": [
-        { "type": "editorial", "source": "서울경제신문", "title": "[사설] IMF \"올해 한국 성장률 2.6%\", 지속가능한 성장동력 확충해야", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pMzc2dEh3dmRsRjg4Y1c1bW9iM1puWkVoblZhajhodFBEc3hSb3lFaUctMTFRdUdlaDc0UV9SRjdkM3Y1VFVkV2p2cEhDcTZXbHfSAVNBVV95cUxOV2lTRWFNejd6WTY4emdPVTBrdm1GZXJ1RDBfWGEzSzk0bUpLLTBoUWUxZ0hLMThuaWdZRG9PX3pJaVZwU3RmOC12VklETDVia18xNA" },
-        { "type": "opinion", "source": "클리앙", "title": "IMF가 올해 한국 성장률을 2.6%로 30개국 중 최대폭 상향했다는 소식", "url": "https://www.clien.net/service/board/park/19223469" },
-        { "type": "opinion", "source": "보배드림", "title": "세계 성장률은 낮추면서 한국만 대폭 올린 IMF 전망을 짚은 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042065" }
+        { "type": "editorial", "source": "경향신문", "title": "[사설] 배달라이더 첫 노동자성 인정 법원 판결, 노동자 추정제 서둘러야", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80aXNsZUROandCeE94N1hhUFM3SktockR3aGE1a3M5M1BLNEZOdG8xREF4ZWxxUDRZVlNLRXhCcDM0ajltVGZra05RbV80Rzd1Vk1vU0w4a1BHQQ?oc=5" },
+        { "type": "editorial", "source": "국민일보", "title": "[사설] 자영업자와 배달 라이더 상생할 입법 필요하다", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12QUZBTnlJeDhpcFF5WWUxbjNrS2ZoWVJLR2ZyT3I1dGlNdjVHSWJRVUU2bUU2U0hpeWxQUUZxcWFsYnlaM1dUaUFsdzF2YUV3SVRRYldEQlR2ZmZ2TS1EWk1BME82aC03T193Xw?oc=5" },
+        { "type": "editorial", "source": "경인일보", "title": "[사설] 한계 자영업 도태 후유증 최소화해야 한다", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TMTVxaHRPX1pkaDBOZkZnazJFZmptdUdOaWF3QnViSFF2MXdLSzhYcXFtaG81bEdhRXI1RWM3VkVLakVXVUgyc1VleVJJeGQwVmc?oc=5" }
       ]
     },
     {
-      "keyword": "집중호우·장마",
+      "keyword": "경제성장·민심",
       "rank": 8,
-      "gist": "전북·충청권에 200mm 안팎의 집중호우로 하천 범람·열차 중지·홍수경보가 잇따랐다. 언론 사설 의제엔 오르지 않았지만 커뮤니티에서는 실시간 재난 정보가 가장 활발히 오간 자생 의제였다.",
+      "gist": "'분배보다 성장'으로 기운 진보층 민심 변화를 짚는 사설과, 성장률 전망 상향 소식이 온라인에서 함께 주목받는다.",
       "items": [
-        { "type": "opinion", "source": "클리앙", "title": "전북 전역에 호우주의보가 내리고 최대 200mm 집중호우가 예보됐다는 속보", "url": "https://www.clien.net/service/board/park/19223508" },
-        { "type": "opinion", "source": "클리앙", "title": "청주 수석천이 범람해 인근 주민에게 즉시 대피령이 내렸다는 속보", "url": "https://www.clien.net/service/board/park/19223506" },
-        { "type": "opinion", "source": "클리앙", "title": "집중호우로 대전~서울 무궁화호 등 열차 운행이 중지됐다는 소식", "url": "https://www.clien.net/service/board/park/19223504" },
-        { "type": "opinion", "source": "클리앙", "title": "세종·충남 전역에 홍수경보가 내려 재난방송이 요청됐다는 속보", "url": "https://www.clien.net/service/board/park/19223464" },
-        { "type": "opinion", "source": "보배드림", "title": "장마철인데도 빗물을 흡수하지 못하는 '투수 블록'의 문제를 짚은 글", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007512" }
+        { "type": "editorial", "source": "서울신문", "title": "[사설] 늘어난 진보층 \"분배보다 성장\"… 민심 변화 살핀 정책을", "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3Fpai1BV0tkZjdGaWMyaXJUd0d5RmU0UUZuX3VlVmpNV1MzNkRzUlhONlViRUh4U1g5SW5aVjE0dUlBTjFXNzAtM0JXQlhPWE14OEcwWlo1TEtUZnc1MWJ0eFp6ckhvT0FockxGQkZTM2lERk5VSmEyZE10SWdqdVln?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "한국 성장률 전망이 1.9%에서 2.6%로 상향돼 선진국 중 최대폭이라는 소식", "url": "https://www.clien.net/service/board/park/19223523" }
       ]
     },
     {
-      "keyword": "반도체 기술유출·산단",
+      "keyword": "허위조작방지법",
       "rank": 9,
-      "gist": "삼성 반도체 핵심기술의 중국 유출 정황이 다시 불거지고 용인·호남 반도체 산단은 토지수용·전력난에 발목이 잡히면서, 언론은 산단 성공과 신규 원전을, 여론은 기술 국산화와 유출 처벌을 함께 걱정했다.",
+      "gist": "언론 사설에는 거의 등장하지 않았으나, 미 국무부의 '표현의 자유 훼손' 우려와 미 의회의 통상 압박이 겹치며 커뮤니티에서 자생적으로 뜨거워진 의제.",
       "items": [
-        { "type": "editorial", "source": "동아일보", "title": "[사설]용인 반도체 토지 수용 38%뿐… 이곳 성공해야 서남권도 산다", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ib2FKdl9SWE1aVVZIZ2g4aHFYTkg5V0VnYjZOQlVwQVVERlZLdmZXbnY3N19MRlF2V0pCcU12NzRZOWVTWnJyT2VjYzlFTjQ0SGd2NmtCMjRwLXcwTUxHZ19lOUVROV9FeTJTMlRQaDZYT1pTM2fSAWZBVV95cUxNUTJ4RkVCVlhZWm9YU0dmckdiREZHZkJPcHpCWHVuU05mLXk4cXJsZDMtWGhRSGIwTnZRQlJiZ0htZU5rNjBaTmtHTDBQUG5qRnU2eHdlNEw3R0tvVmhEMDlGWVBUM1E" },
-        { "type": "editorial", "source": "파이낸셜뉴스", "title": "[사설] 호남 반도체 산단 위한 신규 원전 건설 서둘러야", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FZmRiYlZtLTFQb25DdVRtN19pb1U4cENRX1MtbzlwT283RVJSTi1YWUNzbm5tYzZhajNRX2RUbVlvX3Q5RWZmWmxncHViaGhTSk91cHBuUzNYUQ" },
-        { "type": "opinion", "source": "보배드림", "title": "삼성전자 반도체 핵심기술을 중국에 넘긴 전직 임원들이 다시 도마에 올랐다는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1041980" },
-        { "type": "opinion", "source": "보배드림", "title": "핵심 소재·장비의 기술 국산화가 왜 중요한지 짚은 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1041742" }
+        { "type": "opinion", "source": "루리웹", "title": "미 국무부가 허위조작방지법에 표현의 자유 훼손을 우려했다는 단독 보도", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669912" },
+        { "type": "opinion", "source": "루리웹", "title": "허위조작방지법 시행을 앞두고 미국이 재차 우려를 표했다는 보도", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669945" },
+        { "type": "opinion", "source": "루리웹", "title": "트럼프 측근 의원이 '한국 좌파 정부가 미 기업을 표적 삼는다'고 주장했다는 보도", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669893" },
+        { "type": "opinion", "source": "보배드림", "title": "트럼프가 다시 대한국 압박에 나선 배경을 분석한 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042066" }
+      ]
+    },
+    {
+      "keyword": "12·3 계엄 수사",
+      "rank": 10,
+      "gist": "계엄 당일 한동훈의 당사 소집설을 꺼낸 안철수 발언과 김태효 전 차장 구속영장 청구가 맞물리며 커뮤니티에서 계엄 수사 국면이 다시 회자된다.",
+      "items": [
+        { "type": "opinion", "source": "보배드림", "title": "계엄 당시 한동훈이 먼저 당사 소집을 지시했다는 안철수의 주장", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042090" },
+        { "type": "opinion", "source": "보배드림", "title": "김태효 전 국가안보실 차장에 대한 구속영장 청구 소식", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042074" }
+      ]
+    },
+    {
+      "keyword": "민주당 전당대회",
+      "rank": 11,
+      "gist": "정청래를 당대표 적임자로 보는 목소리와 과거 발언 재조명이 이어지며, 여당 전대와 대비되는 야권 리더십 논의가 온라인에서 오간다.",
+      "items": [
+        { "type": "opinion", "source": "루리웹", "title": "최민희 의원이 '당대표는 정청래가 맞다'며 그를 시대정신의 상징으로 평가했다는 보도", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669937" },
+        { "type": "opinion", "source": "클리앙", "title": "정청래 전 대표가 일주일 전 페이스북에 올린 글이 다시 주목받는다는 글", "url": "https://www.clien.net/service/board/park/19223565" }
+      ]
+    },
+    {
+      "keyword": "인천공항 확장",
+      "rank": 12,
+      "gist": "누적 이용객 10억 명 돌파를 계기로 인천공항 5단계 사업과 고효율 운영을 통한 경쟁력 유지를 주문하는 사설들이 나왔다.",
+      "items": [
+        { "type": "editorial", "source": "경인일보", "title": "[사설] 인천공항 5단계 사업으로 국제 경쟁력 유지해야", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Ml82b0liUjItNTFxTXg4bk1JaGJvX0thU0UteUY4SFFHR2hrWk1VaXBRWkJpNmVIZUxjc3I0ZVVBeEdXYW9abmxTdXB3Z3oyeHc?oc=5" },
+        { "type": "editorial", "source": "아시아투데이", "title": "[사설] 인천공항 이용 10억명…고효율 지속에 힘 모아야", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45UGpkQi1OOWYtRTJqLTNNdGhUWVRJVXNsMVFUbW5tV0JKdkxhT2plb3AtMkNwWmVGQ1RxSzVTZFBfM1pVeDAwUHFlMUtWTUgtRjNhVE1naW5lZGRxWGg5M29pOXJMaHFacnRpRF9n?oc=5" }
       ]
     },
     {
       "keyword": "교육교부금 개편",
-      "rank": 10,
-      "gist": "학령인구가 줄어도 내국세에 자동 연동돼 불어나는 지방교육재정교부금을 놓고, 중앙·서울신문·한국경제가 진보·보수·경제지 가릴 것 없이 '더는 미룰 수 없는 개편'을 한목소리로 주문했다.",
-      "items": [
-        { "type": "editorial", "source": "중앙일보", "title": "[사설] 교육감 쌈짓돈 된 교육교부금 개편, 더 이상 미룰 수 없다", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUWmh2bVZqSGpqNWRMdnJPNXNIUlJORUFVWmZidHdRalMwc1BRS2lDWVlDTkt6OVhuVjFvOHMycm9maXFLUFJ4eHRXY3lTZHgzWGNyN3F3" },
-        { "type": "editorial", "source": "서울신문", "title": "[사설] 교육교부금, 지금 당장 개편해도 만시지탄", "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGFlYkxnaVBUOUFHbmdmVTViSzVWWEdZTGU0Y3JyZGVvMDdnclJHZGJ5TF9Bd2VzeVVtMTZwQVdLUTV4MnI5cjNZUXJqWVVScmxxb1dqTGxBQ244WFRHVXhVazkzOURQWkpLaGFhSkpXUjgzQndKRnpiRUxTOXVtVjJ3" },
-        { "type": "editorial", "source": "한국경제", "title": "교부금 손도 대지 말라는 교육계…국민이 공감하겠나", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jQ1dweXdBQ0hjT0d4QldScW5JeFg3T0NCUzM5QW42UG81Mmduc3BoM0ZLeGNGRjJlWVhsN2p5QlIwV3RkZjdMdzV6NjRHelMyWnJtRm5TSVNod9IBVEFVX3lxTFBlZ2E1VkpLSVZQSTRsQ2huM0JUUXlLNmdlT2loTWlSUkMtOVpWb2dmU3BTejJlQUxkZXRWcE9JTmtaYTRraEZacUdSam9hcGRaMlBrdQ" }
-      ]
-    },
-    {
-      "keyword": "부동산 세제",
-      "rank": 11,
-      "gist": "정부가 보유세·거래세 균형을 예고한 가운데, 경제지들은 '세금의 칼끝이 정교해야' 집값을 잡는다며 세부담 급증의 역효과를 경고했다.",
-      "items": [
-        { "type": "editorial", "source": "아주경제", "title": "[아주사설│기본·원칙·상식] 집값을 잡으려면 세금의 칼끝이 정교해야 한다", "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93ZUxIUDJpNnFKRnA3cmJPZUpJTkdBWk5adURUN0x3T2lEVVRqM3pWRk9fTjJpeHk5cVN6Z3ZEakpKak9jRGdqZVRVTk8wQm9tVmRuMXpfd0vSAVhBVV95cUxPd2VMSFAyaTZxSkZwN3JiT2VKSU5HQVpOWnVEVDdMd09pRFVUajN6VkZPX04yaXh5OXFTemd2RGpKSmpPY0RnamVUVU5PMEJvbVZkbjF6X3dL" }
-      ]
-    },
-    {
-      "keyword": "학교 혐오·교권",
-      "rank": 12,
-      "gist": "교사 3명 중 2명이 학생의 혐오 표현을 경험했다는 조사가 나오자, 동아일보는 '학폭만큼 심각한 혐오의 놀이화'를 지적했고 커뮤니티도 학교 안팎의 존중·배려 문화 회복을 주문했다.",
-      "items": [
-        { "type": "editorial", "source": "동아일보", "title": "[사설]올 1학기 교사 67% \"학생들 혐오 표현 경험\"… '학폭'만큼 심각", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sWU9XWld0aF92LXB3Tl9GcTc0aHlGNlhMTWdaV1pVSE5CUC16cUdNR3BxTDFQelNXRF9YZzRIT1pDWWtEODNxMXRVY2o1aGthUV9TZFJjWGZYNEdtZHVWZktGSk1QeVhPSHZFQ19XVGNnNHh6bnfSAWZBVV95cUxPSGNoaUQtaF9NUVlIMXdKNWFkMkhiZXdpVm5za3FUTDFYMVBSbFdZVkNKNThTcG9XNjlIRVgtNW1OOE1LVHd2WDliZkVFcUFpYjlTQldXTVVnNG1RNy1qbEdRTUtXRFE" },
-        { "type": "opinion", "source": "클리앙", "title": "'혐오의 놀이화'를 지적하며 학교 안팎의 존중·배려 문화가 절실하다는 글", "url": "https://www.clien.net/service/board/park/19223472" }
-      ]
-    },
-    {
-      "keyword": "배달 라이더 상생",
       "rank": 13,
-      "gist": "자영업자와 배달 라이더가 수수료·'배달거지' 논란으로 갈등하는 가운데, 국민일보는 양측이 상생할 수 있는 입법이 필요하다고 짚었다.",
+      "gist": "학령인구 감소에도 자동 증액되는 지방교육재정교부금 구조를 두고, 개편을 더는 미룰 수 없다는 사설이 진보·보수지 모두에서 나왔다.",
       "items": [
-        { "type": "editorial", "source": "국민일보", "title": "[사설] 자영업자와 배달 라이더 상생할 입법 필요하다", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12QUZBTnlJeDhpcFF5WWUxbjNrS2ZoWVJLR2ZyT3I1dGlNdjVHSWJRVUU2bUU2U0hpeWxQUUZxcWFsYnlaM1dUaUFsdzF2YUV3SVRRYldEQlR2ZmZ2TS1EWk1BME82aC03T193X9IBbEFVX3lxTE12QUZBTnlJeDhpcFF5WWUxbjNrS2ZoWVJLR2ZyT3I1dGlNdjVHSWJRVUU2bUU2U0hpeWxQUUZxcWFsYnlaM1dUaUFsdzF2YUV3SVRRYldEQlR2ZmZ2TS1EWk1BME82aC03T193Xw" },
-        { "type": "opinion", "source": "보배드림", "title": "'배달거지' 논란 등 배달 문화의 민낯을 짚은 글", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007600" }
+        { "type": "editorial", "source": "중앙일보", "title": "[사설] 교육감 쌈짓돈 된 교육교부금 개편, 더 이상 미룰 수 없다", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUWmh2bVZqSGpqNWRMdnJPNXNIUlJORUFVWmZidHdRalMwc1BRS2lDWVlDTkt6OVhuVjFvOHMycm9maXFLUFJ4eHRXY3lTZHgzWGNyN3F3?oc=5" },
+        { "type": "editorial", "source": "서울신문", "title": "[사설] 교육교부금, 지금 당장 개편해도 만시지탄", "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGFlYkxnaVBUOUFHbmdmVTViSzVWWEdZTGU0Y3JyZGVvMDdnclJHZGJ5TF9Bd2VzeVVtMTZwQVdLUTV4MnI5cjNZUXJqWVVScmxxb1dqTGxBQ244WFRHVXhVazkzOURQWkpLaGFhSkpXUjgzQndKRnpiRUxTOXVtVjJ3?oc=5" }
       ]
     },
     {
-      "keyword": "나토·방산 외교",
+      "keyword": "ESG 공시",
       "rank": 14,
-      "gist": "방산 수출을 위한 나토와의 군사 밀착과 SMR 3국 공조를 놓고, 한겨레는 지정학적 리스크를 고려했는지 물으며 신중론을, 동아일보는 원전·조선 등 첨단 협력의 기회론을 폈다.",
+      "gist": "ESG 법정공시 제도화를 앞두고, 제재와 함께 기업 지원·수용성 확보가 성패를 가른다는 경제지 사설이 이어졌다.",
       "items": [
-        { "type": "editorial", "source": "한겨레", "title": "[사설] 방산 위해 나토와 '군사 밀착', 지정학적 리스크 고려했나", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNFkxU1U1RG4xQ3E4STJUUVJ1TGZSSTNmd3lTT3NfWkxjOTR1YUdYMWZvNVgzU21odVJGQUU3Yk9xQ1VsNkkwNl8weFVEbTM5UnNTX2V5ZkNmRzJKeVhuR2VvS0RWYVBRelE" },
-        { "type": "editorial", "source": "동아일보", "title": "[사설]SMR 3국 공조… '韓 시공-美 기술-日 부품'으로 세계시장 주도를", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWaDc5TTlNWU9BUXdPeW9IQnlQVmR4SW9BT2EwY1U5ZTlOczB1WlNNbFZRYTREcE1BNWpOMFdvZ3B0aWNnTmRUc3E4YjVNc2RJWmZpcVV2aGczQjkzdHV6b0Rkc2hHZUJDRngxWG55clh3LWNWSFHSAWZBVV95cUxNZzlnQWk4SDdZSVJOZlVDaVZVbDNrVjBiNHVjUU5tZlFXbW1WOHhwRGJRVkM4bDRHeXNEWVFTTHpXSzBTYXQtMjhxRF9nRmdaamlEUE1UTUsxTm1xZkZlOVVPZ3ZaeFE" }
+        { "type": "editorial", "source": "머니투데이", "title": "[사설] ESG 공시, 제재만큼 지원이 중요하다", "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtcE9aQXZIRW1nMHFWUGhBTWRVeld2MEhUWUJ3R3V2R1Qzd0RKdWkyQjlVTDlRdW9SVmYwS2stX2dTakVxa0ZncVdtWjFtNkFuSWZDMWl3QWNRWVA2QUZHcUstVnVvOFFtRi01TkpOWlE?oc=5" },
+        { "type": "editorial", "source": "전자신문", "title": "[사설] ESG 법정공시, 기업 수용성 대안 세워야", "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUUktjTFdDRVhVU1QzOFRjb21SSndVYnhUbFJYNllSZEZrR1lBeUd4bGIyN0txZ2xwVEJvcnplQXlZSkw5OVUyRms5NGpQUQ?oc=5" }
       ]
     },
     {
-      "keyword": "메가특구법 주52시간",
+      "keyword": "장윤기 사건",
       "rank": 15,
-      "gist": "첨단산업 육성을 위한 메가특구법 처리가 급물살을 타면서, 중앙·이데일리는 실효를 거두려면 주 52시간 예외조항을 반드시 넣어야 한다고 주문했다.",
+      "gist": "언론에는 거의 다뤄지지 않았으나, 차량에서 사라진 증거와 과도한 보도량을 둘러싼 의혹이 커뮤니티에서 자생적으로 확산되는 사회적 관심 사건.",
       "items": [
-        { "type": "editorial", "source": "중앙일보", "title": "[사설] 메가특구법, 주 52시간 예외조항 꼭 넣어야", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qNTUzcXdEalRFbzJwZUx1OUY2REtZM2VBOWZIS2J4MnI1UkdnZlAwYlkxa3JOZHVPLTFuNkZ4YkN1cWVnd1lobTcyX0xnd3NxYlA4X293" },
-        { "type": "editorial", "source": "이데일리", "title": "[사설]급물살 타는 메가특구법, '주 52시간 예외'엔 눈감나", "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMlRFSnZNbWVucFNkbDIxekFYa052b1c0bnVWTGdmQnlwNm1RdGUwU2oyTzZjUjhHc2NZUjhzY0xuQ3g2QVppU0h2VEtQMkhyQ25XR3NIRVRkT0JEN2RJMzJmLU9zMW9aUlQyXzRSUjNqTV9wOElicWtXYWlBUXZVUA" }
+        { "type": "opinion", "source": "클리앙", "title": "김어준이 장윤기 사건 보도량이 유독 많은 이유에 의문을 제기했다는 글", "url": "https://www.clien.net/service/board/park/19223536" },
+        { "type": "opinion", "source": "클리앙", "title": "장윤기 사건에서 경찰이 리얼돌과 DNA를 채취했다는 정황 소개", "url": "https://www.clien.net/service/board/park/19223539" },
+        { "type": "opinion", "source": "루리웹", "title": "장윤기 차량에서 핵심 증거가 사라졌다는 의혹을 다룬 글", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669900" }
       ]
     }
   ],
   "etc": [
-    { "type": "editorial", "source": "머니투데이", "title": "[사설] ESG 공시, 제재만큼 지원이 중요하다", "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtcE9aQXZIRW1nMHFWUGhBTWRVeld2MEhUWUJ3R3V2R1Qzd0RKdWkyQjlVTDlRdW9SVmYwS2stX2dTakVxa0ZncVdtWjFtNkFuSWZDMWl3QWNRWVA2QUZHcUstVnVvOFFtRi01TkpOWlHSAXBBVV95cUxQLXBPWkF2SEVtZzBxVlBoQU1kVXpXdjBIVFlCd0d1dkdUM3dESnVpMkI5VUw5UXVvUlZmMEtrLV9nU2pFcWtGZ3FXbVoxbTZBbklmQzFpd0FjUVlQNkFGR3FLLVZ1bzhRbUYtNU5KTlpR" },
-    { "type": "editorial", "source": "한국경제", "title": "유럽도 속도 조절하는 ESG 공시, 우리만 앞서갈 일인가", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41RE9YRUxObnhYeWRsekFxbUJpNG4xbkdhdXVaRDlOR1hLNjM1eVZ4YTB4c2hkNHNKUzBnWlRGVWRFeVdGS05RQm5NaE5Nc3BtcV9ycWg3bGZ1Z9IBVEFVX3lxTE0zcEpYaEF4MFhycVV6ZktsOG5peWRaR0FLY2p3ejJrX2RVaXV5eWE1bnFmWFhraGJhdDBuYVh4bjJUTGVkQmc3YnNqN2JtNnoyMXRSVA" },
-    { "type": "editorial", "source": "한국경제", "title": "\"기업 원하는 것 다 지원\"…이게 메가 프로젝트의 성공 조건", "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IcTV4NjF3TlZYREFKaW9Pdkttam9TNE9icWlZTTNsSnQ0THBYOTF4MGJMVFpjV2hhSHpnS19mXzY0c3doSEVNcmhmMElvUkhzWC12eNIBVEFVX3lxTE1IcTV4NjF3TlZYREFKaW9Pdkttam9TNE9icWlZTTNsSnQ0THBYOTF4MGJMVFpjV2hhSHpnS19mXzY0c3doSEVNcmhmMElvUkhzWC12eA" },
-    { "type": "editorial", "source": "대한경제", "title": "[사설] 하반기 경제성장전략, 지표 반등 넘어 체질 개선의 계기 돼야", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ1ZncE9haTVMS1Q5Q1ZVbnZOcmJ2VUx0WDU2Y2RrSUJybnRLZUhIZ0tEbmNYUTV1SUxMVXA0cThnR2tlZTFfalFZSWhEN1ppRE92Y3F2dUhQX2VIVk5PbWdWVnpUdGZzeEJ1Ym5RcGxMXzQ3eWtGalYzUXBqQVdJZlJPOGpPZw" },
-    { "type": "editorial", "source": "대한경제", "title": "[사설] 건설현장 안전, 책임과 권한의 균형부터 맞춰야", "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxa3FrRHVrTVduUFBNVk5WZHpMNW1QNlI2R0c5Y0pxWEs2SjBZSXo3aFhDdldTeXkwNFZESWZKLS1MOFBNbGRJSWdSNXJFT3VsQW5OOGM2aEkxSlhvVHNaR3luTFRXSEY0VXdaMkk0cmw1Q283" },
-    { "type": "editorial", "source": "서울신문", "title": "[사설] 늘어난 진보층 \"분배보다 성장\"… 민심 변화 살핀 정책을", "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3Fpai1BV0tkZjdGaWMyaXJUd0d5RmU0UUZuX3VlVmpNV1MzNkRzUlhONlViRUh4U1g5SW5aVjE0dUlBTjFXNzAtM0JXQlhPWE14OEcwWlo1TEtUZnc1MWJ0eFp6ckhvT0FockxGQkZTM2lERk5VSmEyZE10SWdqdVln" },
-    { "type": "editorial", "source": "아시아투데이", "title": "[사설] 인천공항 이용 10억명…고효율 지속에 힘 모아야", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45UGpkQi1OOWYtRTJqLTNNdGhUWVRJVXNsMVFUbW5tV0JKdkxhT2plb3AtMkNwWmVGQ1RxSzVTZFBfM1pVeDAwUHFlMUtWTUgtRjNhVE1naW5lZGRxWGg5M29pOXJMaHFacnRpRF9n" },
-    { "type": "editorial", "source": "경기신문", "title": "[사설] 늘어나는 교제 폭력…대응책 재점검 필요", "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zb3pLQ1BiUG5qVjc3a0pSdVMtUUtPOENyQzRyNkQ1d2xKSUVoOHQ2S3BlZFBEOERCNGRLRXBWRlRET0RiVDFZNzlGbjBPZHdZMHBTeUUzazdTRHlTQndvU0Jn" },
-    { "type": "editorial", "source": "글로벌이코노믹", "title": "[글로벌이코노믹 사설] 외국인의 한국투자 대부분은 인수합병", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2hWNGdWaEw5S0k4UGZ1Ym5WcEJ4c3ZMd1RJNENtY0p0dkRkbDZaMkFxRXNIcGlGRGxXWkxBRncyOEwyZDFkR0ZySUFJb013SExrcEN2dFFYUGFPdXBhMERSTEpDY05fWWk2NS1MUmZTVlhNX2NUOVJLREtTaHNVU3E0VVA" },
-    { "type": "opinion", "source": "클리앙", "title": "개인정보보호법 개정안에 AI 개발을 위해 개인정보 보호를 무력화하는 특례가 담겼다는 우려", "url": "https://www.clien.net/service/board/park/19223522" },
-    { "type": "opinion", "source": "클리앙", "title": "이언주 의원을 대상으로 한 음란물 합성(딥페이크)은 선을 넘었다는 비판", "url": "https://www.clien.net/service/board/park/19223503" },
-    { "type": "opinion", "source": "클리앙", "title": "이른바 '장윤기 사건' 당시 수사팀장이 구속됐다는 소식", "url": "https://www.clien.net/service/board/park/19223501" },
-    { "type": "opinion", "source": "클리앙", "title": "대구에서 대형 사기 사건이 터졌다는 소식", "url": "https://www.clien.net/service/board/park/19223517" },
-    { "type": "opinion", "source": "클리앙", "title": "과천에 아주대병원이 들어설 것으로 보인다는 지역 개발 소식", "url": "https://www.clien.net/service/board/park/19223512" },
-    { "type": "opinion", "source": "클리앙", "title": "배재고 스타벅스-5·18 연관성 관련 경위서 내용을 담은 단독 보도", "url": "https://www.clien.net/service/board/park/19223486" },
-    { "type": "opinion", "source": "보배드림", "title": "배재학당 총동창회가 5·18 관련 공지문을 냈다는 소식", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1041114" },
-    { "type": "opinion", "source": "루리웹", "title": "배재고 화환을 비판했다가 논란이 된 5·18 유족 관련 글", "url": "https://bbs.ruliweb.com/best/board/300143/read/75877486" },
-    { "type": "opinion", "source": "보배드림", "title": "대기업들이 7년간 전분값을 담합해 빵값을 끌어올렸다는 폭로", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007523" },
-    { "type": "opinion", "source": "보배드림", "title": "전동휠체어·전동보행기도 보행자로 봐야 한다는 문제제기", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007593" },
-    { "type": "opinion", "source": "보배드림", "title": "아프리카 세네갈의 국민 기업이 된 한국 기업 이야기", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007525" },
-    { "type": "opinion", "source": "보배드림", "title": "돈만 주면 나오는 필라테스 자격증이 1200종에 이른다는 실태", "url": "https://www.bobaedream.co.kr/view?code=best&No=1007534" },
-    { "type": "opinion", "source": "보배드림", "title": "트럼프의 돌출 발언·행보를 비판한 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042066" },
-    { "type": "opinion", "source": "보배드림", "title": "트럼프가 오늘 밤 이란 공격을 개시한다는 속보성 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042057" },
-    { "type": "opinion", "source": "루리웹", "title": "트럼프가 \"일본이 미국을 공격했다\"고 말했다는 발언", "url": "https://bbs.ruliweb.com/best/board/300143/read/75877479" },
-    { "type": "opinion", "source": "루리웹", "title": "애플이 중국 판매용 아이폰에 창신(CXMT) 메모리칩을 도입하기로 했다는 소식", "url": "https://bbs.ruliweb.com/best/board/300143/read/75877212" },
-    { "type": "opinion", "source": "루리웹", "title": "허술하게 운용되는 한국 법 조항을 꼬집은 글", "url": "https://bbs.ruliweb.com/best/board/300143/read/75877707" }
+    { "type": "editorial", "source": "울산일보", "title": "[사설] SK AI 데이터센터 유치, '수요자 맞춤 전략'에 달렸다", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aMjZYZVJVUzVqc3RuX0hOZU9qVEdkVUNBbXItWDMzWDh5alRVZzZ3TGRXRk5CSjJQVXV1am9qQTdKdHh5OUprY3hJaGZiWmZmQ0RtYk02Um9qOXdNTV8tckFsMzhxdFFTTVNFQTNR?oc=5" },
+    { "type": "editorial", "source": "조선일보", "title": "[사설] 탈영 의혹 해소 않고 어떻게 軍 뜯어고치겠나", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNhSzdvaXJ0YXIySFZicmFUUkdFRl9jRDdUbHNFRFhIS1ZsOFR5Xzg1aUZaQXRZYVJ1VWNlamFnc25pRldLaktiTFhNSGhhcmZNamtJLVhEUnZTekJWVnNxOS1GTERCaG44WlJOVGpzUVVQcW1vSHhxZmRTdFl6Sl9JQXo1UQ?oc=5" },
+    { "type": "editorial", "source": "경남도민일보", "title": "[사설] 시작된 폭염, 온열질환 피해 최소화에 만전을", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIRkFIemN0TlNwLVV2MFdnVUtnTlVUTWJpSFdsRVRDOTN3OHl2LWEwZURCa1VQeDg4bklkV0phYTN5LXNYaFNVajY4WUVGT0o5dVp6Nl9Rcm5UdHAtQ0hESjhrdHo4OVl2SUE?oc=5" },
+    { "type": "editorial", "source": "경제정의실천시민연합", "title": "[논평] 중복상장 해결을 실효성 없는 시행령으로 호도한 금융위 규탄한다", "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tNkxQZ2xLNHIwNHZ2M0hoeHVvbzMwNWNiUHpMblJLRDRqZzNJVlNBRUVtQWJOLURMWE1wdVg5U3VfUE8yVFdR?oc=5" },
+    { "type": "opinion", "source": "클리앙", "title": "과거 문재인을 지지했던 이유를 되짚어 보는 개인적 회고 글", "url": "https://www.clien.net/service/board/park/19223574" },
+    { "type": "opinion", "source": "클리앙", "title": "60·70대가 겪은 길을 그대로 따라가는 40·50대에 대한 세대 단상", "url": "https://www.clien.net/service/board/park/19223534" },
+    { "type": "opinion", "source": "보배드림", "title": "5개 AI에게 지지 정당을 물어본 실험 결과 공유", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1042088" },
+    { "type": "opinion", "source": "루리웹", "title": "5번의 선거에서 1088표가 사라진 것을 두고 선관위 해명이 도마에 올랐다는 글", "url": "https://bbs.ruliweb.com/community/board/300148/read/38669901" },
+    { "type": "opinion", "source": "네이트판", "title": "성과급을 지역화폐로 지급할 수 있다는 소식에 대한 직장인들의 반응", "url": "https://pann.nate.com/talk/375506895" }
   ],
-  "method_note": "Google 뉴스 RSS(사설·논평/증시·부동산 검색)로 사설 20건을 수집하고, 클리앙(모두의공원)·보배드림(베스트·정치시사)·루리웹(베스트)에서 시사성 여론글 26건을 회수해 15개 키워드로 군집화했다. 네이트판 랭킹은 연예·상담 글이 대부분이라 시사 소득이 거의 없었고, 에펨코리아는 429(요청 과다)로 차단돼 건너뛰었다. Google 뉴스 RSS에서 매체명이 v.daum.net·네이트·MSN 등 집계 매체로만 표기돼 원매체 확인이 어려운 사설(단일종목 레버리지 도박판, 구윤철 보유세, 경찰 조작·부실 수사 등)은 중복·오표기 방지를 위해 제외했다. 여론 게시물 제목은 원문을 그대로 옮기지 않고 요지를 재서술했다. 언론사·네이버 직접 fetch는 403으로 시도하지 않았다."
+  "method_note": "수집 경로: 언론 사설·논평은 Google 뉴스 RSS(사설 OR 논평 when:1d)에서 회수했고, 원매체가 v.daum.net·네이트 등 집계 표기로만 확인되는 항목은 매체 오표기 방지를 위해 제외했다. 여론은 직접 접근이 열린 클리앙(모두의공원)·보배드림(베스트·정치시사)·루리웹(정치유머)·네이트판(랭킹) 4개 플랫폼에서 시사성 글을 폭넓게 회수했다. 여론 게시물 제목은 원문 복사가 아니라 요지를 재서술한 것이며, 비속어·실명 비방·낚시성 표현은 정제했다. 에펨코리아(429)·클리앙 정치사회 별도 탭(404)은 접근이 막혀 건너뛰었다. Google Trends(재산·김혜경·산사태·꽃게·황유민·변동성 등)는 대부분 연예·생활 검색어라 담론 지형과 무관해 반영하지 않았다."
 }
