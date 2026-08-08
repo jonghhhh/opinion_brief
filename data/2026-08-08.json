@@ -1,153 +1,140 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T07:20:00+09:00",
-  "headline": "대통령이 직접 부동산 세제 개편안을 질타하며 '전면 재검토'를 지시한 가운데, 여당의 청년 '버스 하우스' 주거대책이 2030의 역풍을 맞았고, 김민석·정청래 민주당 전당대회와 미국의 동맹 전술핵 배치·핵공유 논쟁, 폭염 대응이 사설·커뮤니티를 함께 달궜다.",
-  "stats": { "editorial_count": 22, "opinion_count": 36, "keyword_count": 12 },
+  "generated_at": "2026-08-08T09:40:00+09:00",
+  "headline": "이재명 대통령의 부동산 세제개편안 '전면 재검토' 지시가 국정 혼선 논란으로 번진 가운데, 김민석·정청래 민주당 전당대회 내홍, 주 52시간·장시간 노동 특례 충돌, 폭염 노동자 보호, 축구협회 성접대 의혹이 오늘 담론을 갈랐다.",
+  "stats": { "editorial_count": 18, "opinion_count": 23, "keyword_count": 12 },
   "keywords": [
     {
-      "keyword": "부동산 세제·공급",
+      "keyword": "부동산 세제 재검토",
       "rank": 1,
-      "gist": "대통령이 ISA·주가 관련 개편안을 직접 질타하며 전면 재검토를 지시하자, 언론은 '여당 의원조차 걱정한다' '주거권 침해' '부랴부랴 보완이 혼란만 키운다'며 정책 난맥을 질타하고, 커뮤니티는 양도세 부담·정책 설계 의도(특정 지역구 방어냐)를 놓고 갑론을박한다. 제도권과 여론이 동시에 달아오른 오늘의 핵심 교집합 의제.",
+      "gist": "이 대통령이 ISA·주가누르기 방지 등 세제개편안 '전면 재검토'를 지시하자 언론은 부처 간 조율 실패와 정책 신뢰 훼손을, 커뮤니티는 위헌 논란과 철회 전망을 쏟아냈다.",
       "items": [
-        { "type": "editorial", "source": "동아일보", "title": "[사설]입으로만 \"주택 공급\"… 중앙-지방정부, 與野 해법경쟁 나서라", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQWs3bUhBZmtfTGhkelpaZ1cwc3lBb3VpZVJ3ZkFZQ01wN2RLVDJHeGZqSEExSTJYTDlDWXpLbmR3elFwcXQ4c0pjVDFuRXNZb0VLOXgweWlrckJ4MEhad0txMXIwM0xIempNMThVekp3dEt4NEHSAWZBVV95cUxOaEVLWktNSFo3QXpjTlFKLWFKU1JBcHkyNmM0bmpIN3hCSEFBcW1FZ1I2SWEwb1dJSGM0bFJfUUpSVkFNaXYwSUxscXdDQVdRa0tGYUhTaHR4SlJ5UE9EWW40MGJLaEE?oc=5" },
-        { "type": "editorial", "source": "국민일보", "title": "[사설] 여당 의원조차 걱정하는 부동산 세제", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14R1NYN0dzVGZ5T05lVzF0NUtoZFdEUGM1eEVTOTl5SnVhcmVSZE1CdTZoUHEwcU9QZXB2TEc0S2luanlubUJwMEk0UkhUdVlRMUNKeFF6bjVtckhtT3ZtVUVYVzJTcFI3eTN5Z9IBbEFVX3lxTE14R1NYN0dzVGZ5T05lVzF0NUtoZFdEUGM1eEVTOTl5SnVhcmVSZE1CdTZoUHEwcU9QZXB2TEc0S2luanlubUJwMEk0UkhUdVlRMUNKeFF6bjVtckhtT3ZtVUVYVzJTcFI3eTN5Zw?oc=5" },
-        { "type": "editorial", "source": "문화일보", "title": "여당서도 \"주거권 침해\" 주택세제 대혼란 책임 물어야[사설]", "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52U2VvRE80bEtabEZyV1p2NV9CS2Z5NE1uak5MMUFpaFljRmNJZldhclpCRGh4YnJTcnVZOTVVUQW1YWjN1ZFREcXVHdFpoZFRU?oc=5" },
         { "type": "editorial", "source": "서울경제", "title": "[사설] 부동산 세제도 부랴부랴 보완…국민 혼란만 키울라", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xZG41cVlhV21HMlhsMW1fQ2ZjaWdJZkpwNGlkU3VSQWllRGRYNllja1Q0dUtiemd1S1VKUnQwdkdHU3MxeTBGajk1UEtlcnpxVHfSAVNBVV95cUxONUtpc0RZQmxRSEhNemtna1JEbXJXWmpfSGZfZVRoaktkcnd4NzZJR2U0SVpwYzZFbHZVaV9YM1BzUWIwNFpCSU5Ec0Zmb3huZWlzWQ?oc=5" },
-        { "type": "editorial", "source": "아주경제", "title": "[아주사설 | 기본·원칙·상식] 40억 집 세금 올린다고 쫓겨난다는 주장", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xcEw3U19JVjNxX3c3S2k5OEtPZjdId1dYbU9SRkpRc1IyZUhDdUNrZjFITnBzTVZpMVpYTEFjdGJYb0RHQXdCZUxubGpXcUFPd2UxcGtXM3NtQdIBWEFVX3lxTE1xMjl1MU9NQk1sdWJjYml3Zkk1WllnUlVreFNMSGdjT1A2ZGxWODVmUTdNcTE3eDVRejl1Z0paVzIxeHk3Y3U2QThHZWR2MjNTT3R0V25qUnc?oc=5" },
-        { "type": "opinion", "source": "클리앙", "title": "대통령이 ISA·주가 관련 개편안을 질타하며 전면 재검토를 지시했다는 소식", "url": "https://www.clien.net/service/board/park/19243409" },
-        { "type": "opinion", "source": "클리앙", "title": "이번 부동산 정책이 특정 지역구 방어를 위해 설계된 것 같다는 분석", "url": "https://www.clien.net/service/board/park/19243353" },
-        { "type": "opinion", "source": "클리앙", "title": "양도세 부담에 옆집과 주택을 맞교환하는 사례를 전하는 글", "url": "https://www.clien.net/service/board/park/19243372" },
-        { "type": "opinion", "source": "보배드림", "title": "야당 의원이 부동산 세제가 국민에게 큰 상처를 준다고 비판했다는 소식", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047474" },
-        { "type": "opinion", "source": "루리웹", "title": "전세대출 구조 탓에 부동산 시장의 연착륙이 어렵다고 진단하는 글", "url": "https://bbs.ruliweb.com/community/board/300148/read/38704135" }
-      ]
-    },
-    {
-      "keyword": "청년 주거·버스 하우스",
-      "rank": 2,
-      "gist": "여당이 내놓은 청년 주거 대책('버스 하우스')이 알려지자 2030을 중심으로 역풍이 거세다. 관련 홍보 글이 삭제되고, 앵커·커뮤니티가 구상의 현실성을 비꼬며 '오래 준비했다는 정책 수준이 이거냐'는 냉소가 번졌다(커뮤니티 자생 의제로, 부동산·세대론과 맞물렸다).",
-      "items": [
-        { "type": "opinion", "source": "루리웹", "title": "여당의 청년 주거 대책('버스 하우스')에 청년들이 반발하자 관련 글이 삭제됐다는 소식", "url": "https://bbs.ruliweb.com/community/board/300148/read/38704138" },
-        { "type": "opinion", "source": "루리웹", "title": "방송 앵커가 여당의 '버스 주택' 구상을 정면으로 비판했다는 소식", "url": "https://bbs.ruliweb.com/community/board/300148/read/38704130" },
-        { "type": "opinion", "source": "루리웹", "title": "대통령·여당의 '버스 주택' 구상을 비꼬는 글", "url": "https://bbs.ruliweb.com/community/board/300148/read/38704123" },
-        { "type": "opinion", "source": "루리웹", "title": "2030 표심도 잡고 부동산도 해결하겠다며 나온 대책을 냉소하는 글", "url": "https://bbs.ruliweb.com/community/board/300148/read/38704116" },
-        { "type": "opinion", "source": "루리웹", "title": "오래 준비했다는 대통령의 정책 수준에 실망을 표하는 글", "url": "https://bbs.ruliweb.com/community/board/300148/read/38704140" }
+        { "type": "editorial", "source": "한국일보", "title": "[사설] 심상찮은 부동산 민심… 정부, 고집 꺾고 시장요구에 호응을", "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzSzRsVXp2Sk5CaFc1eDdJcERjWUdvdXpXd3AtLWJhVS1RaEF2U25XMmRrMFdUeXVpUzBHdkp4aEN4NWQwNjdDMTVTRDlOWTBhZXUxeWRTcE1QSDU5czR4ZVhJOUhBUXlNMkh1X2NWRU9wUnfSAXNBVV95cUxQc0s0bFV6dkpOQmhXNXg3SXBEY1lHb3V6V3dwLS1iYVUtUWhBdlNuVzJkazBXVHl1aVMwR3ZKeGhDeDVkMDY3QzE1U0Q5TlkwYWV1MXlkU3BNUEg1OXM0eGVYSTlIQVF5TTJIdV9jVkVPcFJ3?oc=5" },
+        { "type": "editorial", "source": "국민일보", "title": "[사설] 여당 의원조차 걱정하는 부동산 세제", "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000001340&code=11171111&sid1=opi" },
+        { "type": "editorial", "source": "한국일보", "title": "[사설] 여기저기서 터져나오는 부처 간 이견, 사전 협의 안 하나", "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FM3FIRUhwTEtLMDVUSUIwY3VOdUpWeUd4dW5YQ2Ewal9vNkQwZ28xb0NzN28xZDNwQndXZmhaeFJfZDhxdU83Qmk3V0xGWFZpdDRkNjJ3QXhSVWQwZ1k4UmtqLVJIbkFwbHoyVHBaNC13Qm_SAXNBVV95cUxNRTNxSEVIcExLSzA1VElCMGN1TnVKVnlHeHVuWENhMGpfbzZEMGdvMW9DczdvMWQzcEJ3V2ZoWnhSX2Q4cXVPN0JpN1dMRlhWaXQ0ZDYyd0F4UlVkMGdZOFJrai1SSG5BcGx6MlRwWjQtd0Jv?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "위헌적 세제개편안은 결국 백기항복 후 폐기될 것이라는 전망", "url": "https://www.clien.net/service/board/park/19243852" },
+        { "type": "opinion", "source": "클리앙", "title": "ISA 5년 의무보유 개편안에 대한 커뮤니티의 부정적 여론", "url": "https://www.clien.net/service/board/park/19243841" },
+        { "type": "opinion", "source": "클리앙", "title": "부동산 문제의 해법은 공급 확대가 아니라는 문제 제기", "url": "https://www.clien.net/service/board/park/19243883" },
+        { "type": "opinion", "source": "클리앙", "title": "주택담보대출이 신용대출보다 안정적이라는 규제 논쟁 반론", "url": "https://www.clien.net/service/board/park/19243829" }
       ]
     },
     {
       "keyword": "민주당 전당대회",
+      "rank": 2,
+      "gist": "김민석·정청래가 맞붙은 전대가 당내 민주주의 훼손과 팬덤 정치 논란으로 번지며, 언론은 여야 공멸을 경고하고 커뮤니티는 후보별 표심과 공천 계산을 둘러싼 냉소를 드러냈다.",
+      "items": [
+        { "type": "editorial", "source": "뉴스비전e", "title": "[사설] '민주당의 귀염둥이'라는 비판까지… 국힘 중진들은 무엇을 하고 있나", "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEaml1eHhZZ2QyR1FIdkVnUDVrOUNlOWlZV3JkcmhpWnpzOXEzRkpwU2hzV3I5S3lUbHZBWUgwMk9OWWJoODNUVjRlcEZ2Z0JtZWlOVFkwZnZvcklGVmpZTE5QSFV0QQ?oc=5" },
+        { "type": "opinion", "source": "클리앙", "title": "전당대회에서 김민석을 지지한 의원들의 공천 계산에 대한 냉소", "url": "https://www.clien.net/service/board/park/19243887" },
+        { "type": "opinion", "source": "클리앙", "title": "김민석 당대표 후보의 리더십 스타일을 '스마트한 독재'로 비판", "url": "https://www.clien.net/service/board/park/19243866" },
+        { "type": "opinion", "source": "클리앙", "title": "전대 과정에서 당내 민주주의가 무시되고 있다는 우려", "url": "https://www.clien.net/service/board/park/19243874" },
+        { "type": "opinion", "source": "클리앙", "title": "서울 표심에서는 정청래가 우세할 것이라는 예측", "url": "https://www.clien.net/service/board/park/19243809" },
+        { "type": "opinion", "source": "클리앙", "title": "친이재명 지지층이 비판자에게 보이는 배타적 태도에 대한 내부 비판", "url": "https://www.clien.net/service/board/park/19243863" },
+        { "type": "opinion", "source": "클리앙", "title": "정치 팬덤의 공격을 '홍위병 인민재판'에 빗댄 비판", "url": "https://www.clien.net/service/board/park/19243810" }
+      ]
+    },
+    {
+      "keyword": "주 52시간·장시간 노동",
       "rank": 3,
-      "gist": "김민석·정청래가 맞붙는 당대표 경선에 커뮤니티가 달아올랐다. 후보 진영의 선거 운동 방식·화법을 비판하는 글과, 노무현 전 대통령을 소환한 계보 다툼, 부울경·호남 판세 해석이 뒤엉켜 논쟁이 격화됐다(커뮤니티 자생 정치 의제).",
-      "items": [
-        { "type": "opinion", "source": "클리앙", "title": "부울경이 특정 후보를 지지한다는 관측에 의문을 제기하는 글", "url": "https://www.clien.net/service/board/park/19243377" },
-        { "type": "opinion", "source": "클리앙", "title": "한 후보가 상대 대신 대통령을 겨냥해 구도를 그르쳤다고 보는 관전평", "url": "https://www.clien.net/service/board/park/19243375" },
-        { "type": "opinion", "source": "클리앙", "title": "특정 후보 지지층이 노무현 전 대통령을 소환했다고 지적하는 글", "url": "https://www.clien.net/service/board/park/19243386" },
-        { "type": "opinion", "source": "보배드림", "title": "한 후보 진영의 선거 운동 방식을 비판하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047497" },
-        { "type": "opinion", "source": "보배드림", "title": "노무현 전 대통령과 김민석 총리가 과거 공식적으로 화해했음을 상기하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047496" },
-        { "type": "opinion", "source": "보배드림", "title": "노무현 전 대통령을 가까이 모셨던 인사의 증언을 전하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047495" },
-        { "type": "opinion", "source": "보배드림", "title": "한 당권 주자의 반복되는 언행을 비판하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047482" },
-        { "type": "opinion", "source": "보배드림", "title": "특정 후보로는 사법 리스크에 제대로 대응하지 못한다는 비판", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047484" }
-      ]
-    },
-    {
-      "keyword": "2030 세대론",
-      "rank": 4,
-      "gist": "부동산·주거 대책 논란과 맞물려 '2030이 왜 등을 돌렸나'를 둘러싼 세대론이 커뮤니티에서 뜨겁다. 청년을 탓하기보다 기성세대·환경 탓이라는 옹호론과, 스스로 서게 놔둬야 한다는 자립론이 맞선다(자생 담론).",
-      "items": [
-        { "type": "opinion", "source": "클리앙", "title": "2030을 비난하기 전에 그들을 그렇게 만든 기성세대를 돌아보자는 글", "url": "https://www.clien.net/service/board/park/19243406" },
-        { "type": "opinion", "source": "클리앙", "title": "세대를 떠나 청년도 청년 나름이라며 일반화를 경계하는 글", "url": "https://www.clien.net/service/board/park/19243390" },
-        { "type": "opinion", "source": "클리앙", "title": "2030 세대를 겨냥한 비판을 반박하는 글", "url": "https://www.clien.net/service/board/park/19243376" },
-        { "type": "opinion", "source": "클리앙", "title": "2030 세대는 스스로 설 수 있게 놔두는 편이 낫다는 주장", "url": "https://www.clien.net/service/board/park/19243370" }
-      ]
-    },
-    {
-      "keyword": "주 52시간·노동시간",
-      "rank": 5,
-      "gist": "산업장관의 '주 52시간 특례' 주장을 놓고 언론이 갈렸다. 한겨레는 인재 유출 등 부작용을 경고하고, 문화일보는 장관 간 충돌로 호남 반도체 속도전이 발목 잡혔다고 지적한다. 커뮤니티에서도 노동시간 규제를 손봐야 한다는 목소리가 나온다.",
+      "gist": "산업장관의 '주 52시간 특례'·'장시간 노동 특구' 발언을 두고 진보지는 인재유출·인권 후퇴를 경고하고, 노란봉투법 실효성 논쟁까지 겹치며 노동정책이 쟁점으로 떠올랐다.",
       "items": [
         { "type": "editorial", "source": "한겨레", "title": "[사설] 산업장관 주장한 \"주 52시간 특례\", 인재유출 등 부작용 더 클 것", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wdEFMbDhoR3BzdnV3dzZOMGZUWVhLZEVjUHBHbllzb1FyYjlaTXdQVHVOellJOGhSd0RyVEpuMVM4YVR5cWRHMTlfVVZ2Vkhxd0cxNkpsYlJoendkTGFWM2xkd2dLZTJhZVE?oc=5" },
+        { "type": "editorial", "source": "경향신문", "title": "[사설] 중국의 장시간 노동이 우리가 따라가야 할 길인가", "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00U1E4RXE3cFA2RW53VHlwZEUwYmFzSjA1R3I0Tk9EUlBRaG44N0NjemFzVlA0bGdmRVZTY1VGSVJMTW5keVE?oc=5" },
         { "type": "editorial", "source": "문화일보", "title": "장관끼리 '52시간' 충돌… 발목 잡힌 호남반도체 속도전[사설]", "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IRGJMbzNENzJwbXhtVWxRQ1BiTXhib0xDdE55eDNOaXdRZXNJN1FjcXpvRUJZRWdtcGNYMEZCWlB3RjIxLUxqWlFaem1qbnNp?oc=5" },
-        { "type": "opinion", "source": "루리웹", "title": "주 52시간제를 손봐야 한다는 주장을 담은 글", "url": "https://bbs.ruliweb.com/best/board/300143/read/76233960" }
+        { "type": "opinion", "source": "루리웹", "title": "노란봉투법이 당초 목표인 '재벌 견제'에 실패했다는 논쟁", "url": "https://bbs.ruliweb.com/community/board/300148/read/38705141" },
+        { "type": "opinion", "source": "클리앙", "title": "호남 메가프로젝트와 노란봉투법을 둘러싼 지역·노동 논쟁", "url": "https://www.clien.net/service/board/park/19243848" }
       ]
     },
     {
-      "keyword": "미국 전술핵·핵공유",
-      "rank": 6,
-      "gist": "미국이 '동맹에 전술핵 배치' 전략을 검토한다는 소식에 언론이 정면으로 갈렸다. 조선은 '韓美 핵 공유의 계기'로 반기고, 경향은 '동북아 긴장을 높인다'고 우려하며, 한국일보는 '불가피한 한반도 정세 변화'로 관망한다(제도권 주도 외교·안보 의제).",
+      "keyword": "청년 주거·버스하우스",
+      "rank": 4,
+      "gist": "황희 의원의 '폐버스 청년주택'·용산공원 주택화 구상이 2030 역풍과 야당 비판을 부르며, 청년 주거대책의 현실성과 결혼 페널티 개선까지 논쟁이 확산했다.",
       "items": [
-        { "type": "editorial", "source": "조선일보", "title": "[사설] 美 '동맹에 전술핵 배치' 전략 검토, 韓美 핵 공유 계기로", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazF1Q015N0doUHRManlFRkV2MGlta0pXdlRXYlhjMWlrMVRta1VMd3JuX1BPb2FCQkNFbktHNDNkLWZIQnpHSmxRb0lFLUdiZ0cxLVVscC1vNlp4YUoxUTMtREdSbVE2ZEZoQkNpekVsSG1vcDhkLVdIem9jMjBDcjA3R2FuZw?oc=5" },
-        { "type": "editorial", "source": "경향신문", "title": "[사설]동북아 긴장 높일 미국의 전술핵 확대, 우려한다", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UWE5rUUk5bzZlbEd1bVpMNlhzT1FCdW5OR1dobmd5SEtvR2JNMldTRXRqdkNhOVA4RDBJMTZCRVZGd2gxME5aZTBEVDNyY28zTjA1WkdkRk9VQdIBX0FVX3lxTE9wZUJMbjNQdV94QnI0eWJTbHVYb1BDNWcyblY3MENuRHJjTTdkRGNrRzk1Y2F5Y09jc0J2dDZtdTMyMERtRU1BQnd2bHNjNjJGTWRRZzJwVW1xZ0JCdnM4?oc=5" },
-        { "type": "editorial", "source": "한국일보", "title": "[사설] 미국의 동맹 핵전략 전환, 불가피한 한반도 정세 변화", "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsRE5yUVBXLUYyT3JjQko0VjlreER3M1EwUGt2SndZTTVSQXJzSXdQRjJpLWZvR29ybHNjcldCWG44dDFzaDRJcGdGZGNZc3pSbFNVdnVObTNCNmlTTmJUbmlocGVHYkVwekpiSXR6alMxVDjSAXNBVV95cUxQbEROclFQVy1GMk9yY0JKNFY5a3hEdzNRMFBrdkp3WU01UkFyc0l3UEYyaS1mb0dvcmxzY3JXQlhuOHQxc2g0SXBnRmRjWXN6UmxTVXZ1Tm0zQjZpU05iVG5paHBlR2JFcHpKYkl0empTMVQ4?oc=5" }
+        { "type": "editorial", "source": "미디어써치", "title": "용산공원까지 주택으로 채우겠다는 발상, 정책의 금도를 넘었다", "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yZUdjTm9PcFhLOVNZSUZ4X1pjZnprbXpzenVaakx0LVRxSTRXX2tzeGV4ejJUN1JmTTdTamVjbm9BS1RCMVdGbF90VVE1QlJoa0tpcTJrNWpKQ2kxbXZqdWxDMUk2M0M1NEZqYkpDVVk?oc=5" },
+        { "type": "editorial", "source": "서울경제", "title": "황희 '청년 버스하우스' 난타…국힘 \"본인 자녀부터\"", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQblR5QkdVeG5RYmxLWGFhLVg0WXdCVjd2TTFRTjJ4NVFFYjd3SDA0RFNiOVpjelM3M1hXZ0VlVmh4cndSME8tNV9Lamk3LVdqemfSAVNBVV95cUxNV3M5bTZIY0Y0UTdYcGZSdERJc2RKQzVWWkJCWmhxaS05eWFQQXJ2eXl2WFViakZ5RkRpRDdBLXllalJmTDBjdzJOb1BuZTBwXzd5MA?oc=5" },
+        { "type": "editorial", "source": "아주경제", "title": "李 결혼, 희망찬 새 출발돼야… 대출·청약 결혼 페널티 손본다", "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaEVZaVhqZzl3bUpidk1aLVF4SEdXSEExQnpPbzIwNDhOWFR6UU1URi0yaExobmlTMkFhRDFhMElBWFM4aElZSGZfdjB5YjZ3SjNQVngwb1DSAVhBVV95cUxPT2hFWWlYamc5d21KYnZNWi1ReEhHV0hBMUJ6T28yMDQ4TlhUelFNVEYtMmhMaG5pUzJBYUQxYTBJQVhTOGhJWUhmX3YweWI2d0ozUFZ4MG9Q?oc=5" }
       ]
     },
     {
-      "keyword": "극한폭염·기후대응",
-      "rank": 7,
-      "gist": "이어지는 극한폭염에 언론은 '과학 기반 시스템 재설계'와 '폭염 작업 중지 사각지대(택배·설치기사) 보호'를 촉구하고, 커뮤니티는 예년과 확연히 다른 여름을 체감하며 폭염 속 안타까운 사연을 공유한다.",
+      "keyword": "폭염·온열질환",
+      "rank": 5,
+      "gist": "입추에도 이어진 폭염으로 온열질환 사망이 잇따르자, 언론은 택배·설치 노동자 등 작업중지 사각지대 보호를, 커뮤니티는 물류센터 노동 현장의 실태를 고발했다.",
       "items": [
-        { "type": "editorial", "source": "중앙일보", "title": "[사설] 폭염 대비, 과학 기반 시스템 재설계하자", "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52eEt6eGJLQnk1UzBkZmtkODNvWVZYMUw0R2d5UXdYRXBrcHBCUEJCNVhUdTRSM3J0NXByMWNadUhWZzJsV1lMaDl4RWNGZW5sNU5CZWNB?oc=5" },
         { "type": "editorial", "source": "한겨레", "title": "[사설] '폭염 작업 중지' 사각지대 놓인 택배·설치 기사, 보호 대책 시급하다", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44WmVQQXVTM0l6eWF4MTNvNENhZlpwbE5ad1JnRkE0cS1oQkxOVGlsTVhOaUNuQk1TLU53MWVhZGV2X1VqY0pBa0NGcHVBX2NUTHByLWpnd1FxVHh1dE84U2dHVEJrZkw4Z2c?oc=5" },
-        { "type": "opinion", "source": "클리앙", "title": "최근 여름이 과거와 확연히 다르다고 체감하는 글", "url": "https://www.clien.net/service/board/park/19243373" },
-        { "type": "opinion", "source": "클리앙", "title": "폭염 속 길에서 울던 남성이 30년 전 실종자였다는 사연", "url": "https://www.clien.net/service/board/park/19243346" }
-      ]
-    },
-    {
-      "keyword": "수사보완권·형소법",
-      "rank": 8,
-      "gist": "검찰 수사보완권 폐지를 담은 개정 형소법이 국무회의를 통과하자, 커뮤니티는 '법안을 읽지도 않고 통과시켰다'는 절차 논란과 특검·공수처 수사와의 정합성을 놓고 논쟁을 벌인다(커뮤니티 자생 사법 의제).",
-      "items": [
-        { "type": "opinion", "source": "보배드림", "title": "수사보완권 폐지 법안을 충분히 읽지 않고 국무회의에서 통과시켰다고 비판하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047475" },
-        { "type": "opinion", "source": "보배드림", "title": "검사 수사보완권 완전 폐지가 특검·공수처 수사와 모순된다는 주장", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047468" }
-      ]
-    },
-    {
-      "keyword": "사관학교 통합·군",
-      "rank": 9,
-      "gist": "3군 사관학교 통합 논의를 놓고 논평은 신중론을 펴고, 커뮤니티는 '계엄 가담을 이유로 한 연좌제식 폐교냐'며 통합 취지를 의심한다.",
-      "items": [
-        { "type": "editorial", "source": "굿모닝충청", "title": "[이시원의 이슈와 논평] 3군 사관학교 통합논의를 바라보는 시선", "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56Ri1OSU9SRkpGakdlejhiZkVMQU9mTlhuX3dpd2dJSTJIalh3bnE2SHNEWTRVSmZ6NGdlR292Q3FoRklyUExHX3VUVnNFbFpfa2Y3UU1nRnhQdE9PemU1LXdTUk01MDU2a2xISlhfSUg3UQ?oc=5" },
-        { "type": "opinion", "source": "보배드림", "title": "육사 출신의 계엄 가담을 이유로 한 연좌제식 폐교냐고 반문하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047472" }
-      ]
-    },
-    {
-      "keyword": "여야 내홍·양당제",
-      "rank": 10,
-      "gist": "여야가 동시에 겪는 내홍을 두고 언론은 '한국형 양당제가 한계에 봉착했다'고 진단한다(제도권 주도 정치 의제).",
-      "items": [
-        { "type": "editorial", "source": "동아일보", "title": "[사설]'같은 당 맞나' 싶은 與野의 내홍… 한계 봉착한 '한국형 양당제'", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UdnNYbTlMUVFIbzg5OHhjdXctemxVaDZUa093Y1BpMXA2NmpZYnlndUhFbWlENjNxQWY1XzREa0RQS0o5NnlBRVJtdFZKc21kNDBSWUlJc3dFUnl4TGpCNjJjNmJhQXBYQUZuTlBJaTNlbUItelHSAWZBVV95cUxOZGh5U1A2alh3V2dMMy1lbGg3akxiZEN2cDYxYlBKRF9IOEtqQW9MU3RwRkFseGNNWlQzbXhza25rRng3MHJyVERPNmRlTVg3Uk9jS2k4aEtMRlFfeWd4MFZaQjg5LWc?oc=5" }
-      ]
-    },
-    {
-      "keyword": "AI·청년 고용",
-      "rank": 11,
-      "gist": "AI 시대에 청년층이 고용 직격탄을 맞았다는 진단이 이어진다. 언론은 6년 만의 고용 악화에 서비스발전법을 돌파구로 제시하고, 커뮤니티는 공대 취업률 악화 등 체감 지표를 공유한다.",
-      "items": [
-        { "type": "editorial", "source": "경북신문", "title": "[사설] AI 시대 직격탄 맞은 청년층, 대책과 과제", "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0cFV2YXZQanpMMzFEWmJKQTNWNkUtcEJfVXk1RU5STnZJSm9yWHJaSXp4ZFQ5cEw2dC1uSXZlTnc0cWJheG45UzNHSnJ5TDM2WWdrVWJSOWc?oc=5" },
-        { "type": "editorial", "source": "서울경제", "title": "[사설] \"6년 만에 고용 악화\"…서비스발전법으로 돌파구 마련을", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90cHJnUlJuUV95LTREYld4TkRMRjBfWnBBUGJTS1VnTEIyRW1fcG5QUnJiVXVoMURmUTduV2x6VHMwZEU5NDZpR3AydmdHdTl5RFHSAVNBVV95cUxNeGQtZnBRVUdBSHJRVjNtVEw0d25VOWdRWWhxUC01bVJCX24ydHZ5bEhBNWg2MElBdGNidVdaOHhWVThGdUpMSk12OGh5MVJTcVhrMA?oc=5" },
-        { "type": "opinion", "source": "루리웹", "title": "컴퓨터공학 전공의 취업률 악화 근황을 전하는 글", "url": "https://bbs.ruliweb.com/best/board/300143/read/76231411" }
+        { "type": "opinion", "source": "네이트판", "title": "폭염 속 쿠팡 물류센터 아르바이트의 열악한 노동 환경 고발", "url": "https://pann.nate.com/talk/375562916" },
+        { "type": "opinion", "source": "네이트판", "title": "아르바이트 신입에게 과도한 업무가 몰리는 현장 경험담", "url": "https://pann.nate.com/talk/375562062" }
       ]
     },
     {
       "keyword": "축구협회 성접대 의혹",
-      "rank": 12,
-      "gist": "축구협회의 외국인 심판 성 접대 의혹이 확산하자 언론은 '나라 망신'이라며 진상 규명을 촉구하고, 커뮤니티도 후속 보도를 주목한다.",
+      "rank": 6,
+      "gist": "대한축구협회의 외국 심판 성접대 의혹이 해외 언론까지 번지며 '나라 망신' 지적이 나오고, 이임생 관련 기록 공개로 온라인 검색량이 급증했다.",
       "items": [
         { "type": "editorial", "source": "동아일보", "title": "[사설]축구협회 외국심판 성 접대 의혹… 이젠 나라 망신까지", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01d1VUS0VCNXc3NGVOb0Y2eG9NX3RrMmhNcVVGbkF2Umh6R0NSdW8yNnBhWFpueERqZjhKOWRDQWwwYUlPUnA3TE9PSGI2UGVlVHVSM1JDam8xX0trdHdCSnpCN0hjLXFXdmVTaXh5VlQ1WTNvb2fSAWZBVV95cUxQdW9yekpfUkU5NDN3bDBlMnc1SHUydWs0aWN4UXJBREZnY2szajcxUHd1UFFma1g3WXlITTZ0QnBleEFYZmZYWnhKdVRkQktVTTVJQWRTU2k5NDNIejRfWGRfbWR5T0E?oc=5" },
-        { "type": "opinion", "source": "클리앙", "title": "축구협회 성접대 의혹의 2차 보도를 전하는 글", "url": "https://www.clien.net/service/board/park/19243324" }
+        { "type": "opinion", "source": "네이트판", "title": "축구협회 성접대 의혹으로 이임생 관련 검색과 공분이 확산", "url": "" }
+      ]
+    },
+    {
+      "keyword": "증시·레버리지 ETF",
+      "rank": 7,
+      "gist": "레버리지 ETF 도입 책임론이 여당 전대 쟁점으로까지 번지고, 40% 급락 후 반등한 증시를 두고 개미들의 재진입 고민과 시장 체력 논쟁이 이어졌다.",
+      "items": [
+        { "type": "editorial", "source": "문화일보", "title": "급기야 與 전대 쟁점 된 레버리지 ETF 도입 문책론[사설]", "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Kb0w0Wk5WeUE4MWJ1dW5aMzluWDZ1UzdWOS15dW5aWWJiMWV2a2NLY25NSkNZU2dtSnNDaFNaZnhic1RrTXZKSndXX0dkM0FL?oc=5" },
+        { "type": "editorial", "source": "tokenpost.kr", "title": "[사설] 불확실성이 일상이 된 시장, 결국 '체력'이 승부 가른다", "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLQkpMTkFHZFJuNUd0T1R5N0RuRUI3clR5MkxGTUwtaENDUHRDWkJ3NE5nSExMOHRzOWMtckNwcmZLVnRPY1JmdXFzc1FBWWZ2QWhHSHVjVFTSAV5BVV95cUxNRkZrcDM1SUxxbUE0bV9oQ25tSWNjWk5QNk9vTHJqaGNzRzhfYjdpSW9nUVhaRUlxRHVSdlAxWkVNS0ZEWDZiSWp1RkJwT21DTzBNVkJOa3o2SWRkRlZB?oc=5" },
+        { "type": "opinion", "source": "네이트판", "title": "40대에 2억 자산이 평균인지 묻는 글로 본 세대별 자산 현실", "url": "https://pann.nate.com/talk/375562085" }
+      ]
+    },
+    {
+      "keyword": "반도체 투자·SK하이닉스",
+      "rank": 8,
+      "gist": "SK하이닉스가 용인·청주에 54조원을 투자하면서 중국 충칭 공장 매각을 검토한다는 소식이 전해지며, 반도체 국내 회귀와 미·중 리스크가 화제에 올랐다.",
+      "items": [
+        { "type": "opinion", "source": "루리웹", "title": "SK하이닉스의 국내 54조 투자와 중국 충칭 공장 매각 검토 소식", "url": "https://bbs.ruliweb.com/community/board/300148/read/38705144" },
+        { "type": "opinion", "source": "클리앙", "title": "호남권 반도체 투자가 전대 표심과 맞물렸다는 분석", "url": "https://www.clien.net/service/board/park/19243851" }
+      ]
+    },
+    {
+      "keyword": "AI·청년 고용",
+      "rank": 9,
+      "gist": "AI 확산이 청년 고용을 직접 타격한다는 진단 속에, 6년 만의 고용 악화를 서비스산업 규제완화로 풀어야 한다는 제도권 처방이 맞물렸다.",
+      "items": [
+        { "type": "editorial", "source": "경북신문", "title": "[사설] AI 시대 직격탄 맞은 청년층, 대책과 과제", "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0cFV2YXZQanpMMzFEWmJKQTNWNkUtcEJfVXk1RU5STnZJSm9yWHJaSXp4ZFQ5cEw2dC1uSXZlTnc0cWJheG41UzNHSnJ5TDM2WWdrVWJSOWc?oc=5" }
+      ]
+    },
+    {
+      "keyword": "입틀막법·통상",
+      "rank": 10,
+      "gist": "'입틀막법'으로 불리는 규제가 통상·외교 갈등으로 번질 수 있다며 손질이 시급하다는 경제지의 경고가 나왔다.",
+      "items": [
+        { "type": "editorial", "source": "서울경제", "title": "[사설] 통상·외교 갈등으로 번지는 '입틀막법', 손질 시급하다", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96UDRiNmZKY2xfZ2pOTUNaNkFpQWNHdXNIeHQxVWExVmM0aTFKY2dKSjZrLTZVLWlObDNBTDhoYXhqUWl2aEVsU1RXTGZWa0d5b0HSAVNBVV95cUxPLThoUGRTY3pFVThLN3RsUUFHelc0RzdQVUsyVzBRMW1GNmljN01DdXNMSC1DQlpBT2thdEVQTzhwbWZuYmlWV1JiZ2RQU2VicXFfcw?oc=5" }
+      ]
+    },
+    {
+      "keyword": "여야 내홍·양당제",
+      "rank": 11,
+      "gist": "여야 모두 극심한 내홍에 빠지며 '한국형 양당제'의 한계를 지적하는 목소리와, 유권자 책임론('국개론')을 둘러싼 커뮤니티 논쟁이 겹쳤다.",
+      "items": [
+        { "type": "editorial", "source": "동아일보", "title": "[사설]'같은 당 맞나' 싶은 與野의 내홍… 한계 봉착한 '한국형 양당제'", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UdnNYbTlMUVFIbzg5OHhjdXctemxVaDZUa093Y1BpMXA2NmpZYnlndUhFbWlENjNxQWY1XzREa0RQS0o5NnlBRVJtdFZKc21kNDBSWUlJc3dFUnl4TGpCNjJjNmJhQXBYQUZuTlBJaTNlbUItelHSAWZBVV95cUxOZGh5U1A2alh3V2dMMy1lbGg3akxiZEN2cDYxYlBKRF9IOEtqQW9MU3RwRkFseGNNWlQzbXhza25rRng3MHJyVERPNmRlTVg3Uk9jS2k4aEtMRlFfeWd4MFZaQjg5LWc?oc=5" },
+        { "type": "opinion", "source": "루리웹", "title": "유권자 책임론('국개론')을 둘러싼 지지층 간 논쟁", "url": "https://bbs.ruliweb.com/community/board/300148/read/38705146" },
+        { "type": "opinion", "source": "클리앙", "title": "커뮤니티 여론이 이재명·민주당 비판으로 기울고 있다는 관찰", "url": "https://www.clien.net/service/board/park/19243858" },
+        { "type": "opinion", "source": "클리앙", "title": "민주당의 최근 행보가 민주주의 원칙에서 멀어졌다는 비판", "url": "https://www.clien.net/service/board/park/19243861" }
+      ]
+    },
+    {
+      "keyword": "여론조작 의혹",
+      "rank": 12,
+      "gist": "여론조사업체 대표의 사진 조작 의혹과 특정 종교 유착설 등 진영 간 진위 공방이 자동차 커뮤니티에서 확산된 자생 의제다.",
+      "items": [
+        { "type": "opinion", "source": "보배드림", "title": "여론조사업체 대표의 사진 조작 의혹을 둘러싼 진위 공방", "url": "https://www.bobaedream.co.kr/view?code=best&No=1019571" },
+        { "type": "opinion", "source": "보배드림", "title": "특정 종교와 일선 경찰서장의 유착 의혹 제기", "url": "https://www.bobaedream.co.kr/view?code=best&No=1019573" }
       ]
     }
   ],
   "etc": [
     { "type": "editorial", "source": "조선일보", "title": "[사설] 6년 전 李지사와 현재 秋지사의 180도 달라진 곳간 사정", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2RacWxrOUFJV2RZT2JkVVRWLUNIbEJfNEZmUXpnYlA1ZWJBUENEV2VtUWJHbElVUXdBQjRhTVA1RkJVLXFfQjRCNHZOTzlxV2o5Nk0taW1ZeC1KYWVTS1F5R0xiMS1vcDlLSjJRSm9ydWM0OGZZcmItOHVaSlJNcFM3MnpuQQ?oc=5" },
-    { "type": "editorial", "source": "서울경제", "title": "[사설] 통상·외교 갈등으로 번지는 '입틀막법', 손질 시급하다", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96UDRiNmZKY2xfZ2pOTUNaNkFpQWNHdXNIeHQxVWExVmM0aTFKY2dKSjZrLTZVLWlObDNBTDhoYXhqUWl2aEVsU1RXTGZWa0d5b0HSAVNBVV95cUxPLThoUGRTY3pFVThLN3RsUUFHelc0RzdQVUsyVzBRMW1GNmljN01DdXNMSC1DQlpBT2thdEVQTzhwbWZuYmlWV1JiZ2RQU2VicXFfcw?oc=5" },
-    { "type": "editorial", "source": "세계중심나주뉴스", "title": "사설 | 지방소멸은 인구의 문제가 아니라 '정주권'의 위기다", "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GNG5DNXhPVTRvbmdvc1Y1SC1GbW5iN0VYaDBZcmZ4VThCNUZ3aTBubTgtV1kybXNiT3JDTXhIS19oT0M0c0ZWQ3Y2QzdpckMtckFHWmVYZjR5Mmp6UGUtaFBLOFZ3Rmc?oc=5" },
-    { "type": "editorial", "source": "에너지신문", "title": "[사설] '전기국가' 선언, 중요한 것은 현실성", "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HNk0xM3d1LUZOY3FSaFl4SGg0aEpPeWE1VjBZWTBQNEM2YWdUMUFuNmtqV1VjYWViVmNWVU9Qb1hEVC1PNWlUQWxlT3E2S25tUmZCVDdVNXVfUGpzWjJNaWVmMHFrdFRaT19MX1NNYlVaZw?oc=5" },
-    { "type": "editorial", "source": "에너지신문", "title": "[사설] 공기업, '제 식구 감싸기' 부터 끊어야", "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nSUdNZElPLUxVVHVGbjNIbHd3Z0xKN1dGclkySUtBZGFYUUlVaTlPbXAyTHF5YVJxeGxVUmNuLU9EYVFoTTVMUjFhUC1RWDhtS2RrMEZhZXRaR0FxXzNtWUotR01TQks1cVUxVklzSk5wZw?oc=5" },
-    { "type": "opinion", "source": "루리웹", "title": "미국 영향력 약화 속 사우디·튀르키예·파키스탄이 안보 협력에 나섰다는 소식", "url": "https://bbs.ruliweb.com/community/board/300148/read/38704141" },
-    { "type": "opinion", "source": "루리웹", "title": "전통주 규제 강화 논란을 다룬 글", "url": "https://bbs.ruliweb.com/best/board/300143/read/76233238" },
-    { "type": "opinion", "source": "루리웹", "title": "태양광 발전량 증가의 이면을 짚은 글", "url": "https://bbs.ruliweb.com/best/board/300143/read/76231669" },
-    { "type": "opinion", "source": "보배드림", "title": "내란 관련 주범이 무죄를 받을 것 같다고 우려하는 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047485" },
-    { "type": "opinion", "source": "보배드림", "title": "대법원장 탄핵론을 둘러싼 법치 논쟁을 다룬 글", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047476" },
-    { "type": "opinion", "source": "보배드림", "title": "한 남성단체 인사의 사망을 둘러싼 커뮤니티 반응", "url": "https://www.bobaedream.co.kr/view?code=politic&No=1047085" }
+    { "type": "editorial", "source": "mediainnews.com", "title": "[8월7일 사설돋보기]형소법·부동산·폭염·지방대…개혁 취지보다 실행력 주문", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94WWpiRzdfLUVxS05JSjMwazdUVkNHLUo3VktGdTZuZDRodHhMTDlSTWI5SGlzb1lyZDlxRlViTkJHRnYyYUtFVk9kdGdocFdaT0l1RTJ5NnBNNnB2NHhlTVRiekdZV3pLbzg0NmJn?oc=5" },
+    { "type": "opinion", "source": "클리앙", "title": "차기 총리로 홍준표가 유력하다는 관측", "url": "https://www.clien.net/service/board/park/19243869" },
+    { "type": "opinion", "source": "보배드림", "title": "이재명이 극우·일부 진보 진영 양쪽에서 공격받는다는 지지층 시각", "url": "https://www.bobaedream.co.kr/view?code=best&No=1019566" }
   ],
-  "method_note": "수집 경로: Google 뉴스 RSS(사설·논평, 오늘자)로 언론 사설 22건 확보, Google Trends(KR)로 화제 검증. 여론은 클리앙(모두의공원, 2개 페이지)·보배드림(정치시사)·루리웹(정치유머·베스트유머) 3개 플랫폼에서 36건 회수. 네이트판 랭킹은 연예·개인상담 위주로 시사성 글이 거의 없어 제외, 에펨코리아·디시는 이번 실행에서 미시도(직접 fetch 차단 이력). v.daum·네이트 등 집계 매체명으로만 표기된 사설 항목은 원매체 확인이 어려워 건너뜀(중복 포함). 오늘자 RSS에 진보지(한겨레·경향) 사설 노출이 적어 보수·경제지 비중이 상대적으로 높음. 여론 게시물 제목은 원문 복사가 아닌 요지 재서술(비속어·실명 비방·낚시성 표현 정제). 수집 시각 Asia/Seoul 오전."
+  "method_note": "수집 경로: Google 뉴스 RSS(사설·논평, 오늘·최근자)로 언론 사설 18건 확보(조선·동아×2·문화×2·한겨레×2·경향·서울경제×2·한국일보×2·국민일보·경북신문·tokenpost·뉴스비전e·미디어써치·mediainnews). Google Trends(KR)로 이임생(축구협회 성접대)·주가·온열질환 화제 검증. 여론은 클리앙(모두의공원)·보배드림(베스트)·루리웹(정치유머)·네이트판(랭킹) 4개 플랫폼에서 24건 회수. 보배드림 정치시사 탭은 503, 네이트판 랭킹은 연예·개인상담 위주라 시사성 글이 적어 일부만 회수, 에펨코리아·디시·더쿠는 이번 실행 미시도(직접 fetch 차단 이력). v.daum·네이트 등 집계 매체명으로만 표기된 사설은 원매체가 확인된 경향신문 1건만 포함하고 나머지는 건너뜀. 오늘 RSS에서 진보지(한겨레·경향)보다 보수·경제지 사설이 다소 많이 노출돼 균형이 완전하진 않음. 여론 제목은 원문 복사가 아니라 요지 재서술(비속어·실명 비방 정제). 오늘(2026-08-08) 재실행분으로 기존 브리핑을 최신 수집 내용으로 갱신."
 }
